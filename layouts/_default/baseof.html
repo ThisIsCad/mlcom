@@ -4,10 +4,7 @@
 
 <head>
   <meta charset="utf-8">
-  <title>{{ block "title" . }}
-      <!-- Blocks may include default content. -->
-      {{ .Site.Title }}
-  {{ end }}</title>
+  <title>{{ .Title }} — {{ .Site.Title }}</title>
 
   {{ $sass := resources.Get "styles/main.scss" }}
   {{ $style := $sass | resources.ToCSS }}
@@ -21,15 +18,15 @@
 
             <ul>
                 <li><a href="/topics">Topics</a></li>
-                <li><a href="/archive">Archives</a></li>
+                <li><a href="/archives">Archives</a></li>
                 <li><a href="/videos">Videos</a></li>
                 <li><a href="/posts">Community Posts</a></li>
-                <li><a href="/posts">Contribute</a></li>
+                <li><a href="/contribute">Contribute</a></li>
             </ul>
         </div>
     </nav>
 
-    <main role="main" class="main-content content-with-sidebar">
+    <main role="main" class="main-content content-with-sidebar" id="page-{{ .RelPermalink | relURL | anchorize }}">
       {{ block "main" . }}
         <!-- The part of the page that begins to differ between templates -->
       {{ end }}
