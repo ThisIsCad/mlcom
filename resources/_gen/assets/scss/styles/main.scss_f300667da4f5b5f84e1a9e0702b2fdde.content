@@ -1,0 +1,207 @@
+*, *:before, *:after {
+  box-sizing: border-box; }
+
+html, body, div, span, object, iframe, figure, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, code, em, img, small, strike, strong, sub, sup, tt, b, u, i, ol, ul, li, fieldset, form, label, table, caption, tbody, tfoot, thead, tr, th, td, main, canvas, embed, footer, header, nav, section, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  text-size-adjust: none; }
+
+footer, header, nav, section, main {
+  display: block; }
+
+body {
+  line-height: 1; }
+
+ol, ul {
+  list-style: none; }
+
+blockquote, q {
+  quotes: none; }
+
+blockquote:before, blockquote:after, q:before, q:after {
+  content: '';
+  content: none; }
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0; }
+
+input {
+  -webkit-appearance: none;
+  border-radius: 0; }
+
+.f-6, .f-headline {
+  font-size: 6rem; }
+
+.f-5, .f-subheadline {
+  font-size: 5rem; }
+
+.f1 {
+  font-size: 3rem; }
+
+.f2 {
+  font-size: 2.25rem; }
+
+.f3 {
+  font-size: 1.5rem; }
+
+.f4 {
+  font-size: 1.25rem; }
+
+.f5 {
+  font-size: 1rem; }
+
+.f6 {
+  font-size: .875rem; }
+
+.f7 {
+  font-size: .75rem; }
+
+html {
+  line-height: 1.15;
+  -webkit-text-size-adjust: 100%; }
+
+body {
+  font-family: muli,avenir,helvetica neue,helvetica,ubuntu,roboto,noto,segoe ui,arial,sans-serif;
+  background-color: #f9f9f9;
+  line-height: 1.45;
+  box-sizing: border-box; }
+
+a {
+  color: #0594cb;
+  text-decoration: none;
+  cursor: pointer; }
+
+sup {
+  font-size: 0.7rem;
+  position: relative;
+  top: -6px; }
+
+.nav-header {
+  background: #0a1922;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  width: 100%; }
+  .nav-header div.center {
+    max-width: 96rem; }
+  .nav-header h1 {
+    padding-left: 2rem;
+    margin-right: 2rem; }
+    .nav-header h1 a {
+      color: #fff;
+      text-decoration: none;
+      font-size: 1.5rem;
+      line-height: 1; }
+  .nav-header ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    display: inline-block; }
+    .nav-header ul li {
+      font-size: 1rem;
+      margin-right: 2rem;
+      display: inline-block; }
+      .nav-header ul li a {
+        color: #aaa;
+        text-decoration: none; }
+
+.center {
+  margin-right: auto;
+  margin-left: auto; }
+
+@media screen and (min-width: 30em) {
+  .flex-ns {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex; } }
+
+.flex-wrap {
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap; }
+
+.items-center {
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center; }
+
+.main-content {
+  padding-top: 4rem;
+  padding-bottom: 1rem;
+  max-width: 72rem;
+  margin: 0 auto;
+  display: flex; }
+  .main-content #title {
+    margin-top: 0; }
+  .main-content #tags {
+    list-style-type: none; }
+    .main-content #tags li {
+      display: inline-block;
+      margin-right: 10px; }
+      .main-content #tags li a {
+        color: #0594cb;
+        text-decoration: none;
+        text-transform: uppercase;
+        font-size: .875rem;
+        font-weight: 800; }
+  .main-content #content {
+    color: #444; }
+  .main-content #main {
+    padding: 0 4rem 0 0;
+    width: 75%; }
+  .main-content #sidebar {
+    width: 25%;
+    font-size: 0.8rem; }
+  .main-content .original-attributions {
+    font-size: 0.8rem; }
+  .main-content .author-biopic {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin: 0 auto;
+    overflow: hidden; }
+  .main-content .author-biopic + #author-name {
+    margin-top: 0.5em; }
+  .main-content #author-name {
+    text-align: center; }
+  .main-content #author-details {
+    padding-bottom: 1rem;
+    border-bottom: 1px solid #777; }
+  .main-content h1 {
+    color: #0a1922;
+    padding-top: 1rem;
+    line-height: 1.25;
+    font-size: 2.441em;
+    margin: 1.414em 0 0.5em;
+    border-width: 0.125rem;
+    border-color: #555;
+    border-bottom-style: solid;
+    text-transform: capitalize; }
+  .main-content h2 {
+    font-size: 1.653em;
+    margin-top: 2em;
+    margin: 1.414em 0 0.5em;
+    line-height: 1.2;
+    text-transform: capitalize; }
+  .main-content h3 {
+    font-size: 1.153em;
+    font-weight: 600;
+    margin-top: 2em;
+    margin: 1.414em 0 0.5em;
+    line-height: 1.2;
+    text-transform: capitalize; }
+  .main-content p {
+    line-height: 1.5;
+    margin-bottom: 1.3em; }
+
+.footer {
+  background-color: #0a1922;
+  padding: 1rem 2rem 1rem;
+  color: #eee; }
+  .footer div.center {
+    max-width: 72rem; }

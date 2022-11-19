@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+
+<html lang="en-US">
+
+<head>
+  <meta charset="utf-8">
+  <title>{{ block "title" . }}
+      <!-- Blocks may include default content. -->
+      {{ .Site.Title }}
+  {{ end }}</title>
+
+  {{ $sass := resources.Get "styles/main.scss" }}
+  {{ $style := $sass | resources.ToCSS }}
+  <link rel="stylesheet" href="{{ $style.Permalink }}" integrity="{{ $style.Data.Integrity }}">
+</head>
+
+<body>
+    <nav class="nav-header" role="navigation">
+        <div class="center mw9 flex-ns flex-wrap items-center justify-start">
+            <h1 class=""><a href="/">Marxism-Leninism</a></h1>
+
+            <ul>
+                <li><a href="/topics">Topics</a></li>
+                <li><a href="/archive">Archives</a></li>
+                <li><a href="/videos">Videos</a></li>
+                <li><a href="/posts">Community Posts</a></li>
+                <li><a href="/posts">Contribute</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <main role="main" class="main-content content-with-sidebar">
+      {{ block "main" . }}
+        <!-- The part of the page that begins to differ between templates -->
+      {{ end }}
+    </main>
+
+    <footer class="footer">
+      <div class="center mw9 flex-ns flex-wrap items-center justify-start">
+        <p>This is a community maintained and operated website for Marxist-Leninists.</p>
+      </div>
+    </footer>
+  </body>
+</html>
