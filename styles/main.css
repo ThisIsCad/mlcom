@@ -178,6 +178,10 @@ sup {
   .main-content #author-details {
     padding-bottom: 1rem;
     border-bottom: 1px solid #777; }
+  .main-content .note {
+    background: #cde9f9;
+    padding: 1rem 2rem;
+    border-radius: 4px; }
   .main-content h1 {
     color: #0a1922;
     padding-top: 1rem;
@@ -201,6 +205,13 @@ sup {
     margin: 1.414em 0 0.5em;
     line-height: 1.2;
     text-transform: capitalize; }
+  .main-content h4 {
+    font-size: 1.03em;
+    font-weight: 600;
+    margin-top: 2em;
+    margin: 1.414em 0 0.5em;
+    line-height: 1.2;
+    text-transform: capitalize; }
   .main-content p {
     line-height: 1.5;
     margin-bottom: 1.3em; }
@@ -208,10 +219,15 @@ sup {
     list-style: auto;
     margin-left: 2rem;
     list-style: 1.5; }
+  .main-content .text-centered {
+    text-align: center; }
   .main-content ul {
     list-style: disc;
     margin-left: 2rem;
     list-style: 1.5; }
+  .main-content blockquote {
+    border-left: 5px solid #777;
+    padding-left: 2rem; }
 
 .footer {
   background-color: #0a1922;
