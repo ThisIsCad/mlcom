@@ -227,7 +227,17 @@ sup {
   .main-content ul {
     list-style: disc;
     margin-left: 2rem;
-    list-style: 1.5; }
+    line-height: 1.5; }
+    .main-content ul.taxonomy-list {
+      list-style: none;
+      margin-left: 0; }
+      .main-content ul.taxonomy-list li {
+        border-left: 6px solid #0a1922;
+        padding-left: 1.5rem; }
+        .main-content ul.taxonomy-list li a {
+          font-size: 1.1rem; }
+        .main-content ul.taxonomy-list li p {
+          font-size: 0.9rem; }
   .main-content blockquote {
     border-left: 5px solid #777;
     padding-left: 2rem; }
@@ -270,14 +280,6 @@ sup {
   #page-archives ul li h3 {
     display: block;
     margin: 0.6rem 0 0; }
-
-.taxonomy-list li {
-  border-left: 6px solid #0a1922;
-  padding-left: 1.5rem; }
-  .taxonomy-list li a {
-    font-size: 1.1rem; }
-  .taxonomy-list li p {
-    font-size: 0.9rem; }
 
 #page-videos .curated-channel-list {
   list-style: none;
