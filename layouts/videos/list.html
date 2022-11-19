@@ -1,0 +1,28 @@
+{{ define "main" }}
+<section id="main" class="no-sidebar">
+  {{ with .Params.tags }}
+  <ul id="tags">
+    {{ range . }}
+      <li> <a href="{{ "tags" | absURL }}/{{ . | urlize }}">{{ . }}</a> </li>
+    {{ end }}
+  </ul>
+  {{ end }}
+  <h1 id="title">{{ .Title }}</h1>
+  <div>
+        <article id="content">
+           {{ .Content }}
+
+           {{ if .Params.autolist }}
+           <ul class="taxonomy-list">
+                {{ range first 10 ( where .Pages "Type" "topics" ) }}
+                <li>
+                    <a href="{{ .Permalink }}">{{ .Title }}</a>
+                    <p>{{ .Params.description }}</p>
+                </li> 
+                {{ end }}
+           </ul>
+           {{ end }}
+        </article>
+  </div>
+</section>
+{{ end }}

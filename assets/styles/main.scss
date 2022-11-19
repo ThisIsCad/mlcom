@@ -139,6 +139,11 @@ sup {
         width: 75%;
     }
 
+    #main.no-sidebar {
+        width: 100%;
+        padding: 0;
+    }
+
     #sidebar {
         width: 25%;
         font-size: 0.8rem;
@@ -250,6 +255,13 @@ sup {
     }
 }
 
+@media screen and (max-width: 72em) {
+    .main-content {
+        margin-left: 2rem;
+        margin-right: 2rem;
+    }
+}
+
 #page-contribute {
     
 }
@@ -301,5 +313,32 @@ sup {
         p {
             font-size: 0.9rem;
         }
+    }
+}
+
+#page-videos .curated-channel-list {
+    list-style: none;
+    margin-left: 0;
+    
+    li {
+        padding-bottom: 2rem;
+    }
+
+    .logo {
+        display: block;
+        width: 70px;
+        height: 70px;
+        border-radius: 50%;
+        overflow: hidden;
+        float: left;
+        margin-right: 1rem;
+    }
+
+    .channel-name {
+        font-size: 1.2rem;
+    }
+
+    p {
+        font-size: 0.9rem;
     }
 }
