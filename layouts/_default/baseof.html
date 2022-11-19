@@ -10,7 +10,7 @@
   <link rel="icon" type="mage/x-icon" href="/favicon.ico" />
 
   {{ $sass := resources.Get "styles/main.scss" }}
-  {{ $style := $sass | resources.ToCSS }}
+  {{ $style := $sass | resources.ToCSS | fingerprint }}
   <link rel="stylesheet" href="{{ $style.Permalink }}" integrity="{{ $style.Data.Integrity }}">
 </head>
 

@@ -236,7 +236,25 @@ sup {
     ul {
         list-style: disc;
         margin-left: 2rem;
-        list-style: 1.5;
+        line-height: 1.5;
+        
+        &.taxonomy-list {
+            list-style: none;
+            margin-left: 0;
+        
+            li {
+                border-left: 6px solid #0a1922;
+                padding-left: 1.5rem;
+        
+                a {
+                    font-size: 1.1rem;
+                }
+                
+                p {
+                    font-size: 0.9rem;
+                }
+            }
+        }
     }
 
     blockquote {
@@ -297,21 +315,6 @@ sup {
                 display: block;
                 margin: 0.6rem 0 0;
             }
-        }
-    }
-}
-
-.taxonomy-list {
-    li {
-        border-left: 6px solid #0a1922;
-        padding-left: 1.5rem;
-
-        a {
-            font-size: 1.1rem;
-        }
-        
-        p {
-            font-size: 0.9rem;
         }
     }
 }
