@@ -103,6 +103,11 @@ sup {
 
     a {
         color: #0594cb;
+        transition: color .15s ease-in;
+    }
+
+    a:hover {
+        color: #96ccff;
     }
 
     #title {
@@ -117,7 +122,6 @@ sup {
             margin-right: 10px;
 
             a {
-                color: #0594cb;
                 text-decoration: none;
                 text-transform: uppercase;
                 font-size: .875rem;
@@ -204,6 +208,12 @@ sup {
         margin-left: 2rem;
         list-style: 1.5;
     }
+
+    ul {
+        list-style: disc;
+        margin-left: 2rem;
+        list-style: 1.5;
+    }
 }
 
 .footer {
@@ -220,7 +230,8 @@ sup {
     
 }
 
-#page-topics {
+#page-topics,
+#page-archives {
     #main {
         width: 100%;
     }
