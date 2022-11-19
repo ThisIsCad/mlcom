@@ -5,6 +5,9 @@
 <head>
   <meta charset="utf-8">
   <title>{{ .Title }} — {{ .Site.Title }}</title>
+  
+  <link rel="icon" type="image/png" href="/favicon-32x32.png" />
+  <link rel="icon" type="mage/x-icon" href="/favicon.ico" />
 
   {{ $sass := resources.Get "styles/main.scss" }}
   {{ $style := $sass | resources.ToCSS }}
