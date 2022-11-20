@@ -172,6 +172,8 @@ em {
   .main-content #sidebar {
     width: 25%;
     font-size: 0.8rem; }
+    .main-content #sidebar p {
+      font-size: 0.8rem; }
   .main-content .original-attributions {
     font-size: 0.8rem; }
   .main-content .author-biopic {
