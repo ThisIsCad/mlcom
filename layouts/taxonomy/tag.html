@@ -7,13 +7,13 @@
     {{ end }}
   </ul>
   {{ end }}
-  <h1 id="title">{{ .Title }}</h1>
+  <h1 id="title">Content tagged with "{{ .Title }}"</h1>
   <div>
         <article id="content">
            {{ .Content }}
 
            <ul class="taxonomy-list">
-                {{ range first 10 ( where .RegularPagesRecursive "Type" "posts" ) }}
+                {{ range .Data.Pages }}
                 <li>
                     <a href="{{ .Permalink }}">{{ .Title }}</a>
                     <p>{{ .Params.description }}</p>
