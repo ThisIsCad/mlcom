@@ -1,0 +1,10 @@
+<ul class="taxonomy-list">
+    {{- range (seq 0 (sub (len .Params) 1) ) }}
+        {{ with $.Site.GetPage ($.Get .) }}
+        <li>
+        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+        <p>{{ .Params.description }}</p>
+        </li>
+        {{ end }}
+    {{- end }}
+</ul>

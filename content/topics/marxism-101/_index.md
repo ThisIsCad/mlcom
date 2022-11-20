@@ -3,6 +3,15 @@ title: Marxism-Leninism 101
 autolist: true
 ---
 
+## Related Reading
+
+{{< articles 
+    "/archives/lenin/works/1913/three-sources-and-three-component-parts-of-marxism.md" 
+    "/archives/stalin/works/1938/dialectical-and-historical-materialism.md" 
+>}}
+
+## Curated Videos
+
 <ul class="curated-video-list">
   <li>
     <a class="logo" href="https://www.youtube.com/playlist?list=PL0J754r0IteXABJntjBg1YuNsn6jItWXQ">

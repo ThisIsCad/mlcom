@@ -5,7 +5,6 @@ autolist: true
 
 ## Beginner Resources
 
-
 <ul class="curated-video-list">
   <li>
     <a class="logo" href="https://www.youtube.com/watch?v=N35D1jko6wA">
