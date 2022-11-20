@@ -1,0 +1,26 @@
+{{ define "main" }}
+<section id="main">
+  {{ with .Params.tags }}
+  <ul id="tags">
+    {{ range . }}
+      <li> <a href="{{ "tags" | absURL }}/{{ . | urlize }}">{{ . }}</a> </li>
+    {{ end }}
+  </ul>
+  {{ end }}
+  <h1 id="title">{{ .Title }}</h1>
+  <div>
+        <article id="content">
+           {{ .Content }}
+
+           <ul class="taxonomy-list">
+                {{ range first 10 ( where .RegularPages "Type" "posts" ) }}
+                <li>
+                    <a href="{{ .Permalink }}">{{ .Title }}</a>
+                    <p>{{ .Params.description }}</p>
+                </li> 
+                {{ end }}
+           </ul>
+        </article>
+  </div>
+</section>
+{{ end }}

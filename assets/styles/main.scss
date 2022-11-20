@@ -159,6 +159,11 @@ sup {
         border-radius: 50%;
         margin: 0 auto;
         overflow: hidden;
+
+        img {
+            width: 200px;
+            height: 200px;
+        }
     }
 
     .author-biopic + #author-name {
@@ -237,7 +242,7 @@ sup {
         list-style: disc;
         margin-left: 2rem;
         line-height: 1.5;
-        
+
         &.taxonomy-list {
             list-style: none;
             margin-left: 0;
