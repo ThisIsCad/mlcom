@@ -158,7 +158,8 @@ em {
   .main-content a:hover {
     color: #96ccff; }
   .main-content #title {
-    margin-top: 0; }
+    margin-top: 0;
+    padding-top: 0; }
   .main-content #tags {
     list-style-type: none; }
     .main-content #tags li {
