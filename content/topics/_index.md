@@ -22,3 +22,7 @@ title: Topics
     {{< imgfill "/images/topic_trans_liberation.jpg" "250x250" >}}
     <h3>Trans Liberation</h3>
   </a>
+- <a href="/topics/socialism-myths/">
+    {{< imgfill "/images/topic_socialism_myths.jpg" "250x250" >}}
+    <h3>Common Socialism Myths</h3>
+  </a>
