@@ -51,6 +51,16 @@ em {
             text-decoration: none;
             font-size: 1.5rem;
             line-height: 1;
+            display: inline-block;
+            padding-left: 2.4rem;
+            position: relative;
+
+            img {
+                height: 36px;
+                position: absolute;
+                left: 0;
+                top: -7px;
+            }
         }
     }
 
