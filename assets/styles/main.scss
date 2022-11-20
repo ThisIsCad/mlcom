@@ -24,6 +24,14 @@ sup {
     top: -6px;
 }
 
+strong {
+    font-weight: 700;
+}
+
+em {
+    font-style: italic;
+}
+
 .nav-header {
     background: #0a1922;
     padding-top: 1rem;
@@ -131,7 +139,7 @@ sup {
     }
 
     #content {
-        color: #444;
+        color: #333;
     }
 
     #main {
@@ -226,6 +234,7 @@ sup {
     p {
         line-height: 1.5;
         margin-bottom: 1.3em;
+        font-size: 1.01rem;
     }
 
     ol {
@@ -267,8 +276,10 @@ sup {
     }
 
     blockquote {
-        border-left: 5px solid #777;
+        border-left: 5px solid #bbb;
         padding-left: 2rem;
+        font-size: 0.95rem;
+        color: #555;
     }
 }
 

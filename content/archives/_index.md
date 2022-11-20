@@ -16,7 +16,12 @@ The content here is mostly archived content from well known Marxist-Leninist wri
     {{< imgfill "/images/author_vladimir_lenin.jpg" "250x250" >}}
     <h3>Vladimir Lenin</h3>
   </a>
+- <a href="/archives/stalin/">
+    {{< imgfill "/images/author_joseph_stalin.jpg" "250x250" >}}
+    <h3>Joseph Stalin</h3>
+  </a>
 - <a href="/archives/mao/">
     {{< imgfill "/images/author_mao_zedong.jpg" "250x250" >}}
     <h3>Mao Zedong</h3>
   </a>
+  

@@ -14,7 +14,7 @@
 
            {{ if .Params.autolist }}
            <ul class="taxonomy-list">
-                {{ range first 10 ( where .Pages "Type" "topics" ) }}
+                {{ range first 10 ( where .RegularPagesRecursive "Type" "archives" ) }}
                 <li>
                     <a href="{{ .Permalink }}">{{ .Title }}</a>
                     <p>{{ .Params.description }}</p>

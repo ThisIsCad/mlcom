@@ -30,6 +30,16 @@
     <p id="author-details">
         Friedrich Engels, sometimes anglicised as Frederick Engels, was a German philosopher, critic of political economy, historian, political theorist and revolutionary socialist. 
     </p>
+{{ else if eq .Params.author "joseph stalin" }}
+    {{ $asset := resources.Get "/images/author_joseph_stalin.jpg" }}
+    {{ $img := $asset.Fill "200x200" }}
+    <div class="author-biopic">
+        <img alt="Joseph Stalin" src="{{ $img.RelPermalink }}" />
+    </div>
+    <h2 id="author-name">Joseph Stalin</h2>
+    <p id="author-details">
+        Joseph Vissarionovich Stalin was a Georgian-born revolutionary and Soviet political leader who led the Soviet Union from 1924 until his death in 1953. He held power as General Secretary of the Communist Party of the Soviet Union and Chairman of the Council of Ministers of the Soviet Union.
+    </p>
 {{ else if eq .Params.author "mao zedong" }}
 {{ $asset := resources.Get "/images/author_mao_zedong.jpg" }}
 {{ $img := $asset.Fill "200x200" }}
