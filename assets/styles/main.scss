@@ -328,7 +328,8 @@ sup {
     }
 }
 
-#page-videos .curated-channel-list {
+#page-videos .curated-channel-list,
+#page-videos .curated-video-list {
     list-style: none;
     margin-left: 0;
     
@@ -352,6 +353,14 @@ sup {
 
     p {
         font-size: 0.9rem;
+    }
+}
+
+#page-videos .curated-video-list {
+    .logo {
+        width: 168px; 
+        height: 94px;
+        border-radius: 10px;
     }
 }
 

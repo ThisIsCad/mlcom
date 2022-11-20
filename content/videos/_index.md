@@ -33,3 +33,14 @@ We've also included various well-vetted videos, even if the creator who made the
 </ul>
 
 # Recommended Videos
+
+
+<ul class="curated-video-list">
+  <li>
+    <a class="logo" href="https://www.youtube.com/playlist?list=PL0J754r0IteXABJntjBg1YuNsn6jItWXQ">
+        {{< imgfill "/images/video_marxist_paul_soc_101.jpg" "168x94" >}}
+    </a>
+    <a class="channel-name" href="https://www.youtube.com/playlist?list=PL0J754r0IteXABJntjBg1YuNsn6jItWXQ">Socialism 101 by Marxist Paul</a>
+    <p>Marxist Paul produced this high quality Socialism 101 series in coordination with several other marxist content creators. It covers the labor theory of value, socialism, communism, and more.</p>
+  </li>
+</ul>
