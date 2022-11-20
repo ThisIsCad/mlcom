@@ -241,6 +241,8 @@ sup {
           font-size: 1.1rem; }
         .main-content ul.taxonomy-list li p {
           font-size: 0.9rem; }
+  .main-content ul + p {
+    margin-top: 1rem; }
   .main-content blockquote {
     border-left: 5px solid #777;
     padding-left: 2rem; }
@@ -301,3 +303,13 @@ sup {
     font-size: 1.2rem; }
   #page-videos .curated-channel-list p {
     font-size: 0.9rem; }
+
+#page-glossary ul {
+  list-style: none;
+  margin-left: 0; }
+  #page-glossary ul li {
+    font-size: 0.9rem;
+    padding-bottom: 2rem; }
+    #page-glossary ul li a:first-child {
+      font-size: 1.1rem;
+      display: block; }
