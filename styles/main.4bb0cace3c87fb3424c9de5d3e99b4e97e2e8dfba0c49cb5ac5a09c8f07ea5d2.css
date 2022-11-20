@@ -301,24 +301,27 @@ em {
 #page-archives #title {
   display: none; }
 
-#page-topics ul li,
-#page-archives ul li {
-  display: inline-block;
-  margin-right: 1rem;
-  margin-bottom: 2rem; }
-  #page-topics ul li a,
-  #page-archives ul li a {
+#page-topics ul,
+#page-archives ul {
+  margin-left: 0; }
+  #page-topics ul li,
+  #page-archives ul li {
     display: inline-block;
-    border: 1px solid #999;
-    border-radius: 4px;
-    padding: 1rem; }
-  #page-topics ul li img,
-  #page-archives ul li img {
-    display: block; }
-  #page-topics ul li h3,
-  #page-archives ul li h3 {
-    display: block;
-    margin: 0.6rem 0 0; }
+    margin-right: 1rem;
+    margin-bottom: 2rem; }
+    #page-topics ul li a,
+    #page-archives ul li a {
+      display: inline-block;
+      border: 1px solid #999;
+      border-radius: 4px;
+      padding: 1rem; }
+    #page-topics ul li img,
+    #page-archives ul li img {
+      display: block; }
+    #page-topics ul li h3,
+    #page-archives ul li h3 {
+      display: block;
+      margin: 0.6rem 0 0; }
 
 #page-videos .curated-channel-list,
 #page-videos .curated-video-list {
