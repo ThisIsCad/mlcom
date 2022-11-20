@@ -10,8 +10,19 @@ The website content itself is mostly in the form of [Markdown files](https://www
 
 The reason for using Hugo over a content management system, such as WordPress, is to allow us to easily incorporate standard open-source workflow processes such as content-review and approvals. This is not to gatekeep editing, but to ensure content on this website is well-vetted by the ML community, and to ensure this website remains a Marxist-Leninist platform. There are many other platforms available for non-MLs.
 
+## Reporting a problem
+
+1. Navigate to GitHub.com and [report a new issue](https://github.com/ThisIsCad/mlcom/issues/new) (you may need to create an account if you don't have one)
+2. Please provide at minimum, the page link where you noticed the problem, and details about the issue
+3. Click "Submit New Issue", and one of the project maintainers will review it
+
 ## How to contribute
 
-1. Visit GitHub.com and sign-in or create an account
-2. Navigate to the GitHub project (github.com/thisiscad/mlcom)
-3. More instructions to follow!
+1. Visit [GitHub.com](https://github.com/) and sign-in or create an account
+2. Navigate to [our GitHub project](https://github.com/ThisIsCad/mlcom/issues/new)
+3. Find the page or template you want to edit (pages are in the content/ directory, templates are in the layouts/ directory)
+4. Once you have the individual Markdown or HTML file open, click the Edit icon in GitHub. This will create a project fork and allow you to make changes in the web based UI. 
+5. Once you are done, create a descriptive title and description, and click "Propose Changes". 
+6. This will open a "Pull Request" for a project maintainer to review. Once reviewed and accepted, it'll be deployed to the website. The maintainer may have feedback that will require you to update the pull request.
+
+For any more complex updates then simple text changes, we recommend getting setup for local development, using Hugo and Git. More instructions for doing this will follow.
