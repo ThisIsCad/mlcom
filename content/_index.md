@@ -1,5 +1,6 @@
 ---
 title: Welcome to MLcom.org!
+description: mlcom.org is a community run Marxist-Leninist resource hub! We have curated reading topics about socialism, communism, marxism, dialectical-materialism, historical-materialism, gender abolishment, trans liberation, and more.
 ---
 
 Welcome to the community run Marxist-Leninist resource hub! Here, you'll find curated reading topics about socialism, communism, marxism, dialectical-materialism, historical-materialism, gender abolishment, trans liberation, and more! As well as curated YouTube videos, posts from members of the community, and historical archives from Karl Marx, Friedrich Engels, Vladimir Lenin, Joseph Stalin, Mao Zedong, and more!
