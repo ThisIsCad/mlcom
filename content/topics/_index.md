@@ -2,9 +2,9 @@
 title: Topics
 ---
 
-- <a href="/topics/communism-101/">
+- <a href="/topics/marxism-101/">
     {{< imgfill "/images/author_karl_marx.png" "250x250" >}}
-    <h3>Communism 101</h3>
+    <h3>Marxism-Leninism 101</h3>
   </a>
 - <a href="/topics/dialectical-materialism/">
     {{< imgfill "/images/subject_diamat.png" "250x250" >}}
