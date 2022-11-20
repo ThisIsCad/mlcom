@@ -34,7 +34,6 @@ We've also included various well-vetted videos, even if the creator who made the
 
 # Recommended Videos
 
-
 <ul class="curated-video-list">
   <li>
     <a class="logo" href="https://www.youtube.com/playlist?list=PL0J754r0IteXABJntjBg1YuNsn6jItWXQ">
@@ -42,5 +41,13 @@ We've also included various well-vetted videos, even if the creator who made the
     </a>
     <a class="channel-name" href="https://www.youtube.com/playlist?list=PL0J754r0IteXABJntjBg1YuNsn6jItWXQ">Socialism 101 by Marxist Paul</a>
     <p>Marxist Paul produced this high quality Socialism 101 series in coordination with several other marxist content creators. It covers the labor theory of value, socialism, communism, and more.</p>
+  </li>
+  
+  <li>
+    <a class="logo" href="https://www.youtube.com/playlist?list=PLCUip-l20OAHpOLTQePXgkgC1IAbQFf9f">
+        {{< imgfill "/images/video_capital_volumes_1_to_3.jpg" "168x94" >}}
+    </a>
+    <a class="channel-name" href="https://www.youtube.com/playlist?list=PLCUip-l20OAHpOLTQePXgkgC1IAbQFf9f">Understanding Marx's Capital Volumes 1-3 by Dissident Theory</a>
+    <p>This series walks through Das Kapital by Karl Marx, chapter by chapter, and explains the material in more beginner friendly terms.</p>
   </li>
 </ul>

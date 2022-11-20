@@ -356,11 +356,36 @@ sup {
     }
 }
 
-#page-videos .curated-video-list {
+#page-videos {
+    #recommended-videos {
+        margin-top: 0;
+    }
+}
+
+.curated-video-list {
+    list-style: none!important;
+    margin-left: 0!important;
+    
+    li {
+        padding-bottom: 2rem;
+    }
+
     .logo {
+        display: block;
+        overflow: hidden;
+        float: left;
+        margin-right: 1rem;
         width: 168px; 
         height: 94px;
         border-radius: 10px;
+    }
+
+    .channel-name {
+        font-size: 1.2rem;
+    }
+
+    p {
+        font-size: 0.9rem;
     }
 }
 
