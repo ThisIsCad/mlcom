@@ -2,6 +2,7 @@
 works: Selected Works of Mao Zedong
 subworks: "Volume VI"
 title: "Oppose Book Worship"
+description: A short pamphlet about realizing material conditions through investigation and lively conversation, and avoiding idealist pitfalls.
 tags: [mao]
 author: mao zedong
 attributions: >
@@ -14,7 +15,7 @@ attributions: >
 
 Unless you have investigated a problem, you will be deprived of the right to speak on it. Isn't that too harsh? Not in the least. When you have not probed into a problem, into the present facts and its past history, and know nothing of its essentials, whatever you say about it will undoubtedly be nonsense. Talking nonsense solves no problems, as everyone knows, so why is it unjust to deprive you of the right to speak? Quite a few comrades always keep their eyes shut and talk nonsense, and for a Communist that is disgraceful. How can a Communist keep his eyes shut and talk nonsense? 
 
-It won' t do!
+It won't do!
 
 It won't do!
 
