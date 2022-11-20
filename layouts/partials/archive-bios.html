@@ -1,5 +1,5 @@
 {{ if eq .Params.author "karl marx" }}
-{{ $asset := resources.Get "/images/author_karl_marx.png" }}
+{{ $asset := resources.Get "/images/author_karl_marx.jpg" }}
 {{ $img := $asset.Fill "200x200" }}
 <div class="author-biopic">
     <img alt="Karl Marx" src="{{ $img.RelPermalink }}" />

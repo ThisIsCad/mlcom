@@ -5,7 +5,7 @@ title: Historical Archives
 The content here is mostly archived content from well known Marxist-Leninist writers, such as Karl Marx himself, Friedrich Engels, Vladimir Lenin, Mao Zedong, and others. Much of the content here has been copied from the [Marxist Internet Archive](https://www.marxists.org/), with appropriate credit.
 
 - <a href="/archives/marx/">
-    {{< imgfill "/images/author_karl_marx.png" "250x250" >}}
+    {{< imgfill "/images/author_karl_marx.jpg" "250x250" >}}
     <h3>Karl Marx</h3>
   </a>
 - <a href="/archives/engels/">
