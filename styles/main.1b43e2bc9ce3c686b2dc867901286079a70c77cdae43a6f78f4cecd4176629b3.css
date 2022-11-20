@@ -211,7 +211,8 @@ em {
     margin-top: 2em;
     margin: 1.414em 0 0.5em;
     line-height: 1.2;
-    text-transform: capitalize; }
+    text-transform: capitalize;
+    font-family: serif; }
   .main-content h3 {
     font-size: 1.153em;
     font-weight: 600;
