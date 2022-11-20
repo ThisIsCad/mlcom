@@ -309,10 +309,26 @@ sup {
   #page-videos .curated-video-list p {
     font-size: 0.9rem; }
 
-#page-videos .curated-video-list .logo {
-  width: 168px;
-  height: 94px;
-  border-radius: 10px; }
+#page-videos #recommended-videos {
+  margin-top: 0; }
+
+.curated-video-list {
+  list-style: none !important;
+  margin-left: 0 !important; }
+  .curated-video-list li {
+    padding-bottom: 2rem; }
+  .curated-video-list .logo {
+    display: block;
+    overflow: hidden;
+    float: left;
+    margin-right: 1rem;
+    width: 168px;
+    height: 94px;
+    border-radius: 10px; }
+  .curated-video-list .channel-name {
+    font-size: 1.2rem; }
+  .curated-video-list p {
+    font-size: 0.9rem; }
 
 #page-glossary ul {
   list-style: none;
