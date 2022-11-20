@@ -262,6 +262,10 @@ sup {
         }
     }
 
+    ul + p {
+        margin-top: 1rem;
+    }
+
     blockquote {
         border-left: 5px solid #777;
         padding-left: 2rem;
@@ -348,5 +352,22 @@ sup {
 
     p {
         font-size: 0.9rem;
+    }
+}
+
+#page-glossary {
+    ul {
+        list-style: none;
+        margin-left: 0;
+
+        li {
+            font-size: 0.9rem;
+            padding-bottom: 2rem;
+
+            a:first-child {
+                font-size: 1.1rem;
+                display: block;
+            }
+        }
     }
 }

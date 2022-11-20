@@ -31,3 +31,5 @@ We've also included various well-vetted videos, even if the creator who made the
     <p>azureScapegoat has a number of high quality videos, especially around Cuba (such as how Cuban democracy functions). He is not explicitly a Marxist-Leninist, he considers himself a Marxist. </p>
   </li>
 </ul>
+
+# Recommended Videos

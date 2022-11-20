@@ -40,6 +40,16 @@
         journalist, critic of political economy, and socialist revolutionary. His best-known titles are 
         the 1848 pamphlet The Communist Manifesto and the four-volume Das Kapital. 
     </p>
+  {{ else if eq .Params.author "mao zedong" }}
+    {{ $asset := resources.Get "/images/author_mao_zedong.jpg" }}
+    {{ $img := $asset.Fill "200x200" }}
+    <div class="author-biopic">
+        <img alt="Mao Zedong" src="{{ $img.RelPermalink }}" />
+    </div>
+    <h2 id="author-name">Mao Zedong</h2>
+    <p id="author-details">
+      Mao Zedong, also known as Chairman Mao, was a Chinese communist revolutionary who was the founder of the People's Republic of China, which he led as the chairman of the Chinese Communist Party from the establishment of the PRC in 1949 until his death in 1976.
+    </p>
   {{ else }} 
     <h2 id="author-name">{{ .Params.author }}</h2>
     <p id="author-details">{{ .Params.author_details }}</p>
