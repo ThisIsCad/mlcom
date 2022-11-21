@@ -267,6 +267,36 @@ em {
     padding-left: 2rem;
     font-size: 0.95rem;
     color: #555; }
+    .main-content blockquote p {
+      font-size: inherit;
+      line-height: 1.3; }
+  .main-content .nav-links {
+    list-style: none;
+    margin-left: 0;
+    display: block;
+    text-align: center;
+    margin-top: 2rem; }
+    .main-content .nav-links li {
+      display: inline-block;
+      padding: 0.4rem 1rem;
+      background: #ddd;
+      border-radius: 4px; }
+  .main-content #works {
+    text-align: center;
+    border-bottom: 0;
+    margin: 0 0 0; }
+  .main-content #work-author {
+    text-align: center;
+    margin: 0 0 0;
+    font-style: italic; }
+  .main-content #subworks {
+    text-align: center;
+    border-bottom: 1px solid #aaa;
+    padding-bottom: 2rem;
+    margin: 0 2rem 2rem; }
+  .main-content .editors-note {
+    color: #999;
+    font-size: 0.9rem; }
 
 .footer {
   background-color: #0a1922;
