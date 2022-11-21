@@ -1,4 +1,5 @@
 ---
+pagename: "Lenin's Karl Marx: Preface"
 title: Preface
 description: "This article on Karl Marx, which now appears in a separate printing, was written in 1913 (as far as I can remember) for the Granat Encyclopaedia. A fairly detailed bibliography of literature on Marx, mostly foreign, was appended to the article. This has been omitted in the present edition"
 works: Karl Marx

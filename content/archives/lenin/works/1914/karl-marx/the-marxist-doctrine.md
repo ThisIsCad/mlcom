@@ -1,4 +1,5 @@
 ---
+pagename: "Lenin's Karl Marx: The Marxist Doctrine"
 title: The Marxist Doctrine
 description: "Marxism is the system of Marx’s views and teachings. Marx was the genius who continued and consummated the three main ideological currents of the 19th century, as represented by the three most advanced countries of mankind: classical German philosophy, classical English political economy, and French socialism combined with French revolutionary doctrines in general"
 works: Karl Marx

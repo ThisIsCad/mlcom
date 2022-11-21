@@ -1,4 +1,5 @@
 ---
+pagename: Lenin's Karl Marx (1914)
 title: Karl Marx
 description: "A Brief Biographical Sketch With an Exposition of Marxism"
 author: vladimir lenin

@@ -1,4 +1,5 @@
 ---
+pagename: "Lenin's Karl Marx: Marx, Karl, was born..."
 title: Marx, Karl, was born...
 description: "Marx, Karl, was born on May 5, 1818 (New Style), in the city of Trier (Rhenish Prussia). His father was a lawyer, a Jew, who in 1824 adopted Protestantism. The family was well-to-do, cultured, but not revolutionary. After graduating from a Gymnasium in Trier, Marx entered the university, first at Bonn and later in Berlin, where he read law, majoring in history and philosophy."
 works: Karl Marx

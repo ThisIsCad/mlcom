@@ -1,4 +1,5 @@
 ---
+pagename: "Lenin's Karl Marx: Marx’s Economic Doctrine"
 title: Marx’s Economic Doctrine
 description: "An investigation into the relations of production in a given, historically defined society, in their inception, development, and decline—such is the content of Marx’s economic doctrine. In capitalist society, the production of commodities is predominant, and Marx’s analysis therefore begins with an analysis of commodity."
 works: Karl Marx
