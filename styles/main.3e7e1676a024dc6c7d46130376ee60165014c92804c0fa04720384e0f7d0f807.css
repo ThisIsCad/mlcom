@@ -327,6 +327,10 @@ em {
 #page-archives #main {
   width: 100%; }
 
+#page-topics #sidebar,
+#page-archives #sidebar {
+  display: none; }
+
 #page-topics #title,
 #page-archives #title {
   display: none; }
