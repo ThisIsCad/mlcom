@@ -34,6 +34,6 @@ attributions: >
 - [Marx, Karl, was born...]({{< ref "marx-was-born.md" >}})
 - [The Marxist Doctrine]({{< ref "the-marxist-doctrine.md" >}})
 - [Marx’s Economic Doctrine]({{< ref "marxs-economic-doctrine.md" >}})
-- Socialism
-- Tactics of the Class Struggle of the Proletariat
+- [Socialism]({{< ref "socialism.md" >}})
+- [Tactics of the Class Struggle of the Proletariat]({{< ref "tactics.md" >}})
 - Bibliography

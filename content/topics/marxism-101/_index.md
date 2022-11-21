@@ -1,12 +1,14 @@
 ---
 title: Marxism-Leninism 101
-autolist: true
+description: A curated list of reading material and videos for new Marxist-Leninists.
+sidebar: This page provides a curated list of reading material and videos for new Marxist-Leninists.
 ---
 
 ## Introduction
 
 {{< articles 
     "/archives/lenin/works/1913/three-sources-and-three-component-parts-of-marxism.md" 
+    "/archives/lenin/works/1914/karl-marx/_index.md" 
     "/archives/stalin/works/1938/dialectical-and-historical-materialism.md" 
 >}}
 

@@ -85,4 +85,5 @@ What is “one of the reasons why grain prices are lower in countries with predo
 
 <ul class="nav-links">
     <li><a href="{{< ref "the-marxist-doctrine.md" >}}">« The Marxist Doctrine</li>
+    <li><a href="{{< ref "socialism.md" >}}">Socialism »</a></li>
 </ul>

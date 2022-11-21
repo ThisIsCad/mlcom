@@ -10,11 +10,13 @@ The website content itself is mostly in the form of [Markdown files](https://www
 
 The reason for using Hugo over a content management system, such as WordPress, is to allow us to easily incorporate standard open-source workflow processes such as content-review and approvals. This is not to gatekeep editing, but to ensure content on this website is well-vetted by the ML community, and to ensure this website remains a Marxist-Leninist platform. There are many other platforms available for non-MLs.
 
-## Reporting a problem
+## Reporting A Problem Or Suggestion
 
 1. Navigate to GitHub.com and [report a new issue](https://github.com/ThisIsCad/mlcom/issues/new) (you may need to create an account if you don't have one)
-2. Please provide at minimum, the page link where you noticed the problem, and details about the issue
+2. Please provide at minimum, the page link where you noticed the problem, and details about the issue, or info about your suggestion
 3. Click "Submit New Issue", and one of the project maintainers will review it
+
+We encourage those who don't feel comfortable contributing directly, to open a ticket so a maintainer can help out. Suggestions could be as simple as a link to a website, page, PDF, or other document that you feel would be helpful on the site, a link to a helpful YouTube video, or an essay you wrote yourself!
 
 ## How to contribute
 
