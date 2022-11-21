@@ -31,6 +31,13 @@
     {{ end }}
   </ul>
   {{ end }}
+
+  {{ if .Params.works }}
+  <h1 id="works">{{ .Params.works }}</h1>
+  <h4 id="work-author">By {{ .Params.author }}</h4>
+  <h2 id="subworks">{{ .Params.subworks }}</h2>
+  {{ end }}
+
   <h1 id="title">{{ .Title }}</h1>
   <div>
         <article id="content">

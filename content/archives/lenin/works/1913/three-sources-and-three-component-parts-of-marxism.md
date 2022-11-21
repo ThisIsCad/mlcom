@@ -1,5 +1,5 @@
 ---
-works: Lenin’s Collected Works, Progress Publishers, 1977, Moscow
+works: Lenin’s Collected Works
 subworks: Volume 19, pages 21-28.
 title: The Three Sources and Three Component Parts of Marxism
 description: The Three Sources and Three Component Parts of Marxism is an article written by the Russian revolutionary Vladimir Lenin and published in 1913. The article was dedicated to the Thirtieth Anniversary of Marx’s death.

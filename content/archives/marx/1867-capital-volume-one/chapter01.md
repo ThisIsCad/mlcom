@@ -1,5 +1,5 @@
 ---
-works: Karl Marx. Capital Volume One
+works: "Capital: Volume One"
 subworks: "Part I: Commodities and Money"
 title: "Chapter One: Commodities"
 description: "Das Kapital, also known as Capital: A Critique of Political Economy or sometimes simply Capital, is a foundational theoretical text in materialist philosophy, critique of political economy and politics by Karl Marx. This is the book's first chapter."

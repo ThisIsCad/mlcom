@@ -3,7 +3,7 @@ title: Marxism-Leninism 101
 autolist: true
 ---
 
-## Related Reading
+## Introduction
 
 {{< articles 
     "/archives/lenin/works/1913/three-sources-and-three-component-parts-of-marxism.md" 

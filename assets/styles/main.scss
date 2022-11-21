@@ -296,6 +296,50 @@ em {
         padding-left: 2rem;
         font-size: 0.95rem;
         color: #555;
+
+        p {
+            font-size: inherit;
+            line-height: 1.3;
+        }
+    }
+
+    .nav-links {
+        list-style: none;
+        margin-left: 0;
+        display: block;
+        text-align: center;
+        margin-top: 2rem;
+
+        li {
+            display: inline-block;
+            padding: 0.4rem 1rem;
+            background: #ddd;
+            border-radius: 4px;
+        }
+    }
+
+    #works {
+        text-align: center;
+        border-bottom: 0;
+        margin: 0 0 0;
+    }
+
+    #work-author {
+        text-align: center;
+        margin: 0 0 0;
+        font-style: italic;
+    }
+
+    #subworks {
+        text-align: center;
+        border-bottom: 1px solid #aaa;
+        padding-bottom: 2rem;
+        margin: 0 2rem 2rem;
+    }
+
+    .editors-note {
+        color: #999;
+        font-size: 0.9rem;
     }
 }
 

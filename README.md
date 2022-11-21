@@ -1,6 +1,11 @@
 README
 ======
 
+```
+(\[([0-9]+)\])
+<sup><a href="#$2">[$2]</a></sup>
+```
+
 More information will be here about how to contribute.
 
 Local Development
