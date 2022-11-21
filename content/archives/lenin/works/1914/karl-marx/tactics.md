@@ -63,5 +63,5 @@ From the standpoint of Marx’s dialectical materialism, the defeat of revolutio
 
 <ul class="nav-links">
     <li><a href="{{< ref "socialism.md" >}}">« Socialism</li>
-    <li><a href="{{< ref "_index.md" >}}">Bibliography »</a></li>
+    <li><a href="{{< ref "bibliography.md" >}}">Bibliography »</a></li>
 </ul>

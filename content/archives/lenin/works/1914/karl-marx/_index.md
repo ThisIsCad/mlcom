@@ -36,4 +36,4 @@ attributions: >
 - [Marx’s Economic Doctrine]({{< ref "marxs-economic-doctrine.md" >}})
 - [Socialism]({{< ref "socialism.md" >}})
 - [Tactics of the Class Struggle of the Proletariat]({{< ref "tactics.md" >}})
-- Bibliography
+- [Bibliography]({{< ref "bibliography.md" >}})
