@@ -30,6 +30,19 @@
     <p id="author-details">
         Friedrich Engels, sometimes anglicised as Frederick Engels, was a German philosopher, critic of political economy, historian, political theorist and revolutionary socialist. 
     </p>
+{{ else if eq .Params.author "karl marx and friedrich engels" }}
+    {{ $asset := resources.Get "/images/karl-marx-and-frederick-engels.jpg" }}
+    {{ $img := $asset.Fill "250x160" }}
+    <div class="author-biopic-sq">
+        <img alt="Karl Marx & Friedrich Engels" src="{{ $img.RelPermalink }}" />
+    </div>
+    <h2 id="author-name">Karl Marx & Friedrich Engels</h2>
+    <p id="author-details">
+        Karl Heinrich Marx was a German philosopher, economist, historian, sociologist, political theorist, 
+        journalist, critic of political economy, and socialist revolutionary. His best-known titles are 
+        the 1848 pamphlet The Communist Manifesto and the four-volume Das Kapital.<br><br>
+        Friedrich Engels, sometimes anglicised as Frederick Engels, was a German philosopher, critic of political economy, historian, political theorist and revolutionary socialist. 
+    </p>
 {{ else if eq .Params.author "joseph stalin" }}
     {{ $asset := resources.Get "/images/author_joseph_stalin.jpg" }}
     {{ $img := $asset.Fill "200x200" }}
