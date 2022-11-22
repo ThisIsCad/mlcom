@@ -1,6 +1,7 @@
 ---
 pagename: Manifesto of the Communist Party
 title: Manifesto of the Communist Party
+description: The Communist Manifesto, originally the Manifesto of the Communist Party, is a political pamphlet written by German philosophers Karl Marx and Friedrich Engels.
 author: karl marx and friedrich engels
 attributions: >
   This document was originally copied from the <a href="https://www.marxists.org/archive/marx/works/1848/communist-manifesto/index.htm">Marxist Internet Archive</a>.
