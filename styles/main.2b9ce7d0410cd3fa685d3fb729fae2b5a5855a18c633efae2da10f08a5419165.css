@@ -224,6 +224,10 @@ em {
     border-color: #555;
     border-bottom-style: solid;
     text-transform: capitalize; }
+    .main-content h1 sup {
+      top: -15px;
+      font-size: 0.8rem;
+      left: 4px; }
   .main-content h2 {
     font-size: 1.653em;
     margin-top: 2em;
@@ -251,8 +255,10 @@ em {
     font-size: 1.01rem; }
   .main-content ol {
     list-style: auto;
-    margin-left: 2rem;
+    margin-left: 3rem;
     list-style: 1.5; }
+    .main-content ol li {
+      padding-left: 1rem; }
   .main-content .text-centered {
     text-align: center; }
   .main-content ul {
@@ -294,6 +300,10 @@ em {
     text-align: center;
     border-bottom: 0;
     margin: 0 0 0; }
+    .main-content #works a {
+      color: inherit; }
+      .main-content #works a:hover {
+        text-decoration: underline; }
   .main-content #work-author {
     text-align: center;
     margin: 0 0 0;
