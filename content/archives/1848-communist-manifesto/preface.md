@@ -2,6 +2,7 @@
 pagename: Communist Manifesto (Preface)
 title: Preface
 works: Manifesto of the Communist Party
+worksref: "./_index.md"
 author: karl marx and friedrich engels
 attributions: >
   This document was originally copied from the <a href="https://www.marxists.org/archive/marx/works/1848/communist-manifesto/preface.htm">Marxist Internet Archive</a>.
@@ -165,3 +166,10 @@ London, February 1, 1893
 <a href="#refC" name="noteC">C.</a> The issue of 30 December 1871 of Woodhulls & Claiflin's weekly contained an exact copy of Helen Macfarlane's translation for the Red Republican but neither the Red Republican nor Helen Macfarlane were acknowledged.
 
 </div>
+
+<hr>
+
+<ul class="nav-links">
+    <li><a href="{{< ref "_index.md" >}}">« Table of Contents</li>
+    <li><a href="{{< ref "preamble.md" >}}">Preamble »</a></li>
+</ul>

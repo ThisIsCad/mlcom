@@ -2,6 +2,7 @@
 pagename: Communist Manifesto (Preamble)
 title: Preamble
 works: Manifesto of the Communist Party
+worksref: "./_index.md"
 author: karl marx and friedrich engels
 attributions: >
   This document was originally copied from the <a href="https://www.marxists.org/archive/marx/works/1848/communist-manifesto/preface.htm">Marxist Internet Archive</a>.
@@ -19,3 +20,9 @@ Two things result from this fact:
 
 To this end, Communists of various nationalities have assembled in London and sketched the following manifesto, to be published in the English, French, German, Italian, Flemish and Danish languages.
 
+<hr>
+
+<ul class="nav-links">
+    <li><a href="{{< ref "preface.md" >}}">« Preface</li>
+    <li><a href="{{< ref "bourgeois-and-proletarians.md" >}}">Bourgeois and Proletarians »</a></li>
+</ul>
