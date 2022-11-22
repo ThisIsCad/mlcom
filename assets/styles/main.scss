@@ -79,6 +79,10 @@ em {
                 color: #aaa;
                 text-decoration: none;
                 transition: color .15s ease-in;
+
+                svg {
+                    fill: #ccc;
+                }
             }
 
             a:hover {
@@ -335,6 +339,10 @@ em {
             padding: 0.4rem 1rem;
             background: #ddd;
             border-radius: 4px;
+            
+            &:last-child {
+                margin-left: 1rem;
+            }
         }
     }
 
