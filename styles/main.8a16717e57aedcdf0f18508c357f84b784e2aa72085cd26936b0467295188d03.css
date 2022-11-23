@@ -124,6 +124,8 @@ em {
         color: #aaa;
         text-decoration: none;
         transition: color .15s ease-in; }
+        .nav-header ul li a svg {
+          fill: #ccc; }
       .nav-header ul li a:hover {
         color: #fff; }
 
@@ -296,6 +298,8 @@ em {
       padding: 0.4rem 1rem;
       background: #ddd;
       border-radius: 4px; }
+      .main-content .nav-links li:last-child {
+        margin-left: 1rem; }
   .main-content #works {
     text-align: center;
     border-bottom: 0;
