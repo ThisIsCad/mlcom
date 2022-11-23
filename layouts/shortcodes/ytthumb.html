@@ -1,0 +1,3 @@
+{{ $image := resources.GetRemote (printf "https://img.youtube.com/vi/%s/maxresdefault.jpg" (.Get 0)) }}
+{{ $filled := $image.Fill (.Get 1) }}
+<img src="{{ $filled.RelPermalink }}" />
