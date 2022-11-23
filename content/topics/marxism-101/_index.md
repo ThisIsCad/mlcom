@@ -9,6 +9,7 @@ sidebar: This page provides a curated list of reading material and videos for ne
 {{< articles 
     "/archives/lenin/works/1913/three-sources-and-three-component-parts-of-marxism.md" 
     "/archives/lenin/works/1914/karl-marx/_index.md" 
+    "/archives/1848-communist-manifesto/_index.md"
     "/archives/stalin/works/1938/dialectical-and-historical-materialism.md" 
 >}}
 
