@@ -7,7 +7,7 @@ works: Manifesto of the Communist Party
 worksref: "./_index.md"
 author: karl marx and friedrich engels
 attributions: >
-  This document was originally copied from the <a href="https://www.marxists.org/archive/marx/works/1848/communist-manifesto/preface.htm">Marxist Internet Archive</a>.
+  This document was originally copied from the <a href="https://www.marxists.org/archive/marx/works/1848/communist-manifesto/ch01.htm">Marxist Internet Archive</a>.
 ---
 
 <h1 id="title">Chapter I. Bourgeois and Proletarians<sup><a name="ref1" href="#note1">(1)</a></sup></h1>

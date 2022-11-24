@@ -54,15 +54,25 @@
         Joseph Vissarionovich Stalin was a Georgian-born revolutionary and Soviet political leader who led the Soviet Union from 1924 until his death in 1953. He held power as General Secretary of the Communist Party of the Soviet Union and Chairman of the Council of Ministers of the Soviet Union.
     </p>
 {{ else if eq .Params.author "mao zedong" }}
-{{ $asset := resources.Get "/images/author_mao_zedong.jpg" }}
-{{ $img := $asset.Fill "200x200" }}
-<div class="author-biopic">
-    <img alt="Mao Zedong" src="{{ $img.RelPermalink }}" />
-</div>
-<h2 id="author-name">Mao Zedong</h2>
-<p id="author-details">
-  Mao Zedong, also known as Chairman Mao, was a Chinese communist revolutionary who was the founder of the People's Republic of China, which he led as the chairman of the Chinese Communist Party from the establishment of the PRC in 1949 until his death in 1976.
-</p>
+  {{ $asset := resources.Get "/images/author_mao_zedong.jpg" }}
+  {{ $img := $asset.Fill "200x200" }}
+  <div class="author-biopic">
+      <img alt="Mao Zedong" src="{{ $img.RelPermalink }}" />
+  </div>
+  <h2 id="author-name">Mao Zedong</h2>
+  <p id="author-details">
+    Mao Zedong, also known as Chairman Mao, was a Chinese communist revolutionary who was the founder of the People's Republic of China, which he led as the chairman of the Chinese Communist Party from the establishment of the PRC in 1949 until his death in 1976.
+  </p>
+{{ else if eq .Params.author "martin luther king jr" }}
+  {{ $asset := resources.Get "/images/author_mlkjr.jpg" }}
+  {{ $img := $asset.Fill "200x200" }}
+  <div class="author-biopic">
+      <img alt="Martin Luther King Jr." src="{{ $img.RelPermalink }}" />
+  </div>
+  <h2 id="author-name">Martin Luther King Jr.</h2>
+  <p id="author-details">
+    Martin Luther King Jr. was an American Baptist minister and activist, one of the most prominent leaders in the civil rights movement from 1955 until his assassination in 1968. 
+  </p>
 {{ else }} 
 <h2 id="author-name">{{ .Params.author }}</h2>
 <p id="author-details">{{ .Params.author_details }}</p>
