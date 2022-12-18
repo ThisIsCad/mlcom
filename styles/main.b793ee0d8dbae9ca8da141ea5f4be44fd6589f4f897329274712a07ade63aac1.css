@@ -72,6 +72,8 @@ body {
   background-color: #f9f9f9;
   line-height: 1.45;
   box-sizing: border-box; }
+  body.loading * {
+    transition: none !important; }
 
 a {
   text-decoration: none;
