@@ -2,6 +2,10 @@
 title: Topics
 ---
 
+- <a href="/topics/getting-started/">
+    {{< imgfill "/images/topic_getting_started.jpg" "216x216" >}}
+    <h3>Getting Started</h3>
+  </a>
 - <a href="/topics/marxism-101/">
     {{< imgfill "/images/author_karl_marx.png" "216x216" >}}
     <h3>Marxism-Leninism 101</h3>

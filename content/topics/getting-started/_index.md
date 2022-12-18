@@ -1,6 +1,12 @@
 ---
 title: "Socialism: Getting Started"
-autolist: true
+sidebar: > 
+  <strong>Community Note:</strong><br><br>
+  Here, we do our best to explain socialist, communist, and marxist ideas using plainer, beginner friendly language.<br><br>
+
+  It is important to consider these topics are vast and complicated, and no short explanation can answer all of your questions. As always, the best solution for a comprehensive understanding is to read the theory behind it all.<br><br>
+
+  There is no shortcut to reading theory yourself. Only by directly reading it, not the summarization created by others, can you ensure you have the complete picture.
 ---
 
 What *is* socialism, communism, and marxism? You may read these terms, and have a gut instinct about their vague meaning. You may have heard about them in school, or more likely, on the news. You've probably heard them used as an insult if you live in the West. They are used by modern liberal politicans as slanderous term for anything they don't like. There is a joke that socialism is whenever the government *does stuff*. 
@@ -13,7 +19,7 @@ Before you can understand them, you must first understand Capitalism.
 
 This is an inherently coercive relationship. Many argue that you can just quit, or find another job, but any system where people **must** work or they do not receive housing, food, and other basic necessities, is a coercive system. Your boss *always* has the power to arbitrarily fire you. Your landlord can evict you at any time. 
 
-**Socialism** is the transitionary stage between Capitalism, and Communism. The power dynamic between worker and capitalist is inverted. The workers own the *means of production* (factories, tools, machines, vehicles, land, and raw materials used to build products). Key industries are *nationalized*, taxes on the ultra-rich capitalist class are increased, and wealth re-distribution starts to occur.
+[**Socialism**](socialism/) is the transitionary stage between Capitalism, and Communism. The power dynamic between worker and capitalist is inverted. The workers own the *means of production* (factories, tools, machines, vehicles, land, and raw materials used to build products). Key industries are *nationalized*, taxes on the ultra-rich capitalist class are increased, and wealth re-distribution starts to occur.
 
 The government is controlled by the working class, instead of the capitalist class. While capitalism is slowly dismantled, the party of the working class serve to keep the capitalists in check, and accountable to the workers. Unions and labor rights become universal, landlords are phased out and people can directly buy houses or receive public housing from the government.
 
@@ -24,6 +30,10 @@ People live in relative abundance, as planned economies allow us to avoid resour
 **Marxism** is both political theory and a framework with which to analyze the world. We use marxism to understand *class struggle* (the struggle and contradiction between worker and capitalist), and how our political systems can be viewed through this lens (including historically). Marxism is the scientific study and analysis of society using *dialectical materialism* (a term that will be explained in some of our recommended reading or recommended videos).
 
 ## Reading List
+
+{{< articles 
+    "/topics/getting-started/idealism-vs-materialism.md"
+>}}
 
 ## Curated Videos
 
