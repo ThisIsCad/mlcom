@@ -71,7 +71,8 @@ body {
   font-family: muli,avenir,helvetica neue,helvetica,ubuntu,roboto,noto,segoe ui,arial,sans-serif;
   background-color: #f9f9f9;
   line-height: 1.45;
-  box-sizing: border-box; }
+  box-sizing: border-box;
+  padding-top: 58px; }
   body.loading * {
     transition: none !important; }
 
@@ -94,7 +95,10 @@ em {
   background: #0a1922;
   padding-top: 1rem;
   padding-bottom: 1rem;
-  width: 100%; }
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0; }
   .nav-header div.center {
     max-width: 96rem; }
   .nav-header h1 {
