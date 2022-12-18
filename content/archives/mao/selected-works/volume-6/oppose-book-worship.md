@@ -6,7 +6,7 @@ description: A short pamphlet about realizing material conditions through invest
 tags: [mao]
 author: mao zedong
 attributions: >
-  This document was originally copied from the <a href="https://www.marxists.org/archive/marx/works/1867-c1/ch01.htm">Marxist Internet Archive</a>.<br><br>
+  This document was originally copied from the <a href="https://www.marxists.org/reference/archive/mao/selected-works/volume-6/mswv6_11.htm">Marxist Internet Archive</a>.<br><br>
   Transcription by the Maoist Documentation Project.<br>
   HTML revised 2004 by Marxists.org
 ---
@@ -87,31 +87,31 @@ Go among the masses and investigate the facts!
 
 ## VII. THE TECHNIQUE OF INVESTlGATION
 
-1. Hold fact-finding meetings and undertake investigation through discussions.
+**1. Hold fact-finding meetings and undertake investigation through discussions.**
 
 This is the only way to get near the truth, the only way to draw conclusions. It is easy to commit mistakes if you do not hold fact-finding meetings for investigation through discussions but simply rely on one individual relating his own experience. You cannot possibly draw more or less correct conclusions at such meetings if you put questions casually instead of raising key-questions for discussion.
 
-2. What kind of people should attend the fact-finding meetings?
+**2. What kind of people should attend the fact-finding meetings?**
 
 They should be people well acquainted with social and economic conditions. As far as age is concerned, older people are best, because they are rich in experience and not only know what is going an but understand the causes and effects. Young people with experience of struggle should also be included, because they have progressive ideas and sharp eyes. As far as occupation is concerned, there should be workers, peasants, merchants, intellectuals, and occasionally soldiers, and sometimes even vagrants. Naturally, when a particular subject is being looked into, those who have nothing to do with it need not be present. For example, workers, peasants and students need not attend when commerce is the subject of investigation.
 
-3. Which is better, a large fact-finding meeting or a small one?
+**3. Which is better, a large fact-finding meeting or a small one?**
 
 That depends on the investigator's ability to conduct a meeting. If he is good at it, a meeting of as many as a dozen or even twenty or more people can be called. A large meeting has its advantages; from the answers you get fairly accurate statistics (e. g., in finding out the percentage of poor peasants in the total peasant population) and fairly correct conclusions (e.g., in finding out whether equal or differentiated land redistribution is better ). Of course, it has its disadvantages too; unless you are skillful in conducting meetings, you will find it difficult to keep order. So the number of. people attending a meeting depends on the competence of the investigator. However, the minimum is three, or otherwise the information obtained will be too limited to correspond to the real situation.
 
-4. Prepare a detailed outline for the investigation.
+**4. Prepare a detailed outline for the investigation.**
 
 A detailed outline' should be prepared beforehand, and the investigator should ask questions according to the outline, with those present at the meeting giving their answers. Any points which are unclear or doubtful should be put up for discussion. The detailed outline should include main subjects and sub-headings and also detailed items. For instance, taking commerce as a main subject, it can have such sub-headings as cloth, grain, other necessities and medicinal herbs; again, under cloth, there can be such detailed items as calico, homespun and silk and satin.
 
-5. Personal participation.
+**5. Personal participation.**
 
 Everyone with responsibility for giving leadership — from the chairman of the township government to the chairman of the central government, from the detachment leader to the commander-in-chief, from the secretary of a Party branch to the general secretary — must personally undertake investigation into the specific social and economic conditions and not merely rely on reading reports. For investigation and reading reports are two entirely different things.
 
-6. Probe deeply. 
+**6. Probe deeply.**
 
 Anyone new to investigation work should make one or two thorough investigations in order to gain full knowledge of a particular place (say, a village or a town) of a particular problem (say, the problem of grain or currency). Deep probing into a particular place or problem will make future investigation of other places or problems easier.
 
-7. Make your own notes.
+**7. Make your own notes.**
 
 The investigator should not only preside at fact-finding meetings and give proper guidance to those present but should also make his own notes and record the results himself. To have others do it for him is no good.
 
