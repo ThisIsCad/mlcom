@@ -3,7 +3,7 @@ works: "The German Ideology"
 subworks: "Chapter I: A Critique of The German Ideology"
 title: "A Critique of The German Ideology"
 hidetitle: true
-description: ""
+description: "Chapter One of The German Ideology is an exposition of Marx's materialist conception of history."
 tags: []
 author: karl marx
 attributions: >

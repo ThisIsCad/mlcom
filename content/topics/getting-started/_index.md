@@ -1,5 +1,6 @@
 ---
 title: "Socialism: Getting Started"
+description: Familiarizing yourself with socialist theory and ideas can be overwhelming when you are first starting. Here, we try to make the process easier, and explain socialist, communist, and marxist ideas using more accessible language.
 sidebar: > 
   <strong>Community Note:</strong><br><br>
   Here, we do our best to explain socialist, communist, and marxist ideas using plainer, beginner friendly language.<br><br>
