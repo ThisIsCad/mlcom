@@ -71,6 +71,28 @@
           main_menu.classList = ['visible'];
         }
       });
+
+      var activeFootnote = null;
+
+      window.onhashchange = function onHashChange() {
+        if (activeFootnote) {
+          activeFootnote.classList.remove('highlight');
+        }
+
+        if (location.hash) {
+          var hash = location.hash.substring(1);
+          
+          if (hash.substring(0, 4) === 'note') {
+            activeFootnote = document.querySelector('a[name="' + hash + '"]').parentElement;
+
+            if (activeFootnote) {
+              activeFootnote.classList.add('highlight');
+            }
+          }
+        } 
+      };
+
+      window.onhashchange();
     </script>
   </body>
 </html>

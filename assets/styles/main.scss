@@ -382,6 +382,11 @@ em {
     .footnotes {
         p {
             font-size: 0.9rem;
+            transition: background .25s ease-in;
+
+            &.highlight {
+                background: #d4eaff;
+            }
         }
     }
 }
