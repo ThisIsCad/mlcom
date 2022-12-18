@@ -73,7 +73,12 @@
   <p id="author-details">
     Martin Luther King Jr. was an American Baptist minister and activist, one of the most prominent leaders in the civil rights movement from 1955 until his assassination in 1968. 
   </p>
-{{ else }} 
-<h2 id="author-name">{{ .Params.author }}</h2>
-<p id="author-details">{{ .Params.author_details }}</p>
+{{ else if .Params.author }} 
+  {{ if fileExists (path.Join .File.Dir "avatar.png") }}
+    {{ with readFile (path.Join .File.Dir "avatar.png") }}
+        <div class="author-biopic"><img src="data:image/png;base64,{{ . | base64Encode }}"></div>
+    {{ end }}
+  {{ end }}
+  <h2 id="author-name">{{ .Params.author }}</h2>
+  <p id="author-details">{{ .Params.author_details | safeHTML }}</p>
 {{ end }}

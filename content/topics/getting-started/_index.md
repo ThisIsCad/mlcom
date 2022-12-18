@@ -32,7 +32,7 @@ People live in relative abundance, as planned economies allow us to avoid resour
 ## Reading List
 
 {{< articles 
-    "/topics/getting-started/idealism-vs-materialism.md"
+    "/posts/@solidaritypost/idealism-vs-materialism.md"
 >}}
 
 ## Curated Videos

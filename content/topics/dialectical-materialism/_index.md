@@ -5,6 +5,7 @@ autolist: true
 
 {{< articles 
     "/archives/stalin/works/1938/dialectical-and-historical-materialism.md" 
+    "/posts/@solidaritypost/idealism-vs-materialism.md"
 >}}
 
 ## Recommended Videos

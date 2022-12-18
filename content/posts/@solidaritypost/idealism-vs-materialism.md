@@ -1,13 +1,8 @@
 ---
 title: "Idealism vs Materialism"
-description: "All philosophies created since the advent of class society have fallen into one of two main camps: idealism or materialism. What are differences between the two?"
-sidebar: > 
-  <strong>Community Note:</strong><br><br>
-  Here, we do our best to explain socialist, communist, and marxist ideas using plainer, beginner friendly language.<br><br>
-
-  It is important to consider these topics are vast and complicated, and no short explanation can answer all of your questions. As always, the best solution for a comprehensive understanding is to read the theory behind it all.<br><br>
-
-  There is no shortcut to reading theory yourself. Only by directly reading it, not the summarization created by others, can you ensure you have the complete picture.
+description: "All philosophies created since the advent of class society have fallen into one of two main camps: idealism or materialism. This article explores the differences between the two, in a beginner friendly format."
+author: solidarity post
+author_details: Solidarity Post is a group of working and marginalized people, from a number of countries, who’ve come together to spread revolutionary thought. They publish a socialist theory and analysis website called <a href="https://solidaritypost.org/">solidaritypost.org</a>.
 ---
 
 All philosophies created since the advent of class society have fallen into one of two main camps: idealism or materialism.

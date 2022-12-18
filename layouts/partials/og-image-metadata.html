@@ -1,0 +1,27 @@
+{{ if eq .Params.author "karl marx" }}
+  {{ $asset := resources.Get "/images/author_karl_marx.jpg" }}
+  {{ $img := $asset.Fill "200x200" }}
+  <meta property="og:image" content="https://mlcom.org{{ $img.RelPermalink }}" />
+{{ else if eq .Params.author "vladimir lenin" }}
+    {{ $asset := resources.Get "/images/author_vladimir_lenin.jpg" }}
+    {{ $img := $asset.Fill "200x200" }}
+    <meta property="og:image" content="https://mlcom.org{{ $img.RelPermalink }}" />
+{{ else if eq .Params.author "friedrich engels" }}
+    {{ $asset := resources.Get "/images/author_friedrich_engels.jpg" }}
+    {{ $img := $asset.Fill "200x200" }}
+    <meta property="og:image" content="https://mlcom.org{{ $img.RelPermalink }}" />
+{{ else if eq .Params.author "joseph stalin" }}
+    {{ $asset := resources.Get "/images/author_joseph_stalin.jpg" }}
+    {{ $img := $asset.Fill "200x200" }}
+    <meta property="og:image" content="https://mlcom.org{{ $img.RelPermalink }}" />
+{{ else if eq .Params.author "mao zedong" }}
+  {{ $asset := resources.Get "/images/author_mao_zedong.jpg" }}
+  {{ $img := $asset.Fill "200x200" }}
+  <meta property="og:image" content="https://mlcom.org{{ $img.RelPermalink }}" />
+{{ else if eq .Params.author "karl marx and friedrich engels" }}
+  {{ $asset := resources.Get "/images/karl-marx-and-frederick-engels.jpg" }}
+  {{ $img := $asset.Fill "200x200" }}
+  <meta property="og:image" content="https://mlcom.org{{ $img.RelPermalink }}" />
+{{ else }}
+  <meta property="og:image" content="https://mlcom.org/android-chrome-192x192.png?fist" />
+{{ end }}

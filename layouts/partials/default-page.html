@@ -1,0 +1,40 @@
+<section id="main">
+  {{ with .Params.tags }}
+    <ul id="tags">
+      {{ range . }}<li> <a href="/tags/{{ . | urlize }}">{{ . }}</a></li>{{ end }}
+    </ul>
+  {{ end }}
+  
+  {{ if .Params.works }}
+    <h1 id="works">
+      {{ if .Params.worksref }} 
+        <a href="{{ ref . .Params.worksref }}">{{ .Params.works }}</a>
+      {{ else }}
+        {{ .Params.works }}
+      {{ end }}
+    </h1>
+  <h4 id="work-author">By {{ .Params.author }}</h4>
+  <h2 id="subworks">{{ .Params.subworks }}</h2>
+  {{ end }}
+  
+  {{ if .Params.hidetitle }}{{ else }}<h1 id="title">{{ .Title }}</h1>{{ end }}
+
+  <div>
+    <article id="content">
+      {{ .Content }}
+
+      {{ if .Params.autolist }}
+        <ul class="taxonomy-list">
+          {{ range first 10 .RegularPagesRecursive }}
+            <li>
+              <a href="{{ .Permalink }}">{{ .Title }}</a>
+              <p>{{ .Params.description }}</p>
+            </li> 
+          {{ end }} 
+        </ul>
+      {{ end }}
+    </article>
+  </div>
+</section>
+
+{{ partial "sidebar.html" . }}

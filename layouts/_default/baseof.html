@@ -12,9 +12,7 @@
 
   <meta property="og:title" content="{{ default .Title .Params.pagename }}" />
   <meta property="og:description" content="{{ .Params.description }}" />
-  {{ block "metadata" . }}
-  <meta property="og:image" content="https://mlcom.org/android-chrome-192x192.png?fist" />
-  {{ end }}
+  {{ partial "og-image-metadata.html" . }}
   <meta property="og:url" content="https://mlcom.org{{ .Page.RelPermalink }}" />
   <meta content="#0a1922" data-react-helmet="true" name="theme-color" />
 
