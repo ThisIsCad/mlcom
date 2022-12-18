@@ -147,18 +147,16 @@ Origin of the state and the relation of the state to civil society. ...
 
 <hr>
 
-# Footnotes
+# Notes
+
+<div class="footnotes">
 
 ## Contradiction between Individuals and their conditions of life
 
 <a href="#ref1" name="note1">1.</a> The building of houses. With savages each family has as a matter of course its own cave or hut like the separate family tent of the nomads. This separate domestic economy is made only the more necessary by the further development of private property. With the agricultural peoples a communal domestic economy is just as impossible as a communal cultivation of the soil. A great advance was the building of towns. In all previous periods, however, the abolition of individual economy, which is inseparable from the abolition of private property, was impossible for the simple reason that the material conditions governing it were not present. The setting-up of a communal domestic economy presupposes the development of machinery, of the use of natural forces and of many other productive forces – e.g. of water-supplies, of gas-lighting, steam-heating, etc., the removal [of the antagonism] of town and country. Without these conditions a communal economy would not in itself form a new productive force; lacking any material basis and resting on a purely theoretical foundation, it would be a mere freak and would end in nothing more than a monastic economy – What was possible can be seen in the towns brought about by condensation and the erection of communal buildings for various definite purposes (prisons, barracks, etc.). That the abolition of individual economy is inseparable from the abolition of the family is self-evident.
 
-<hr>
-
 <a href="#ref2" name="note2">2.</a> [This paragraph appears as a marginal note in the manuscript – Ed.] And out of this very contradiction between the interest of the individual and that of the community the latter takes an independent form as the State, divorced from the real interests of individual and community, and at the same time as an illusory communal life, always based, however, on the real ties existing in every family and tribal conglomeration – such as flesh and blood, language, division of labour on a larger scale, and other interests – and especially, as we shall enlarge upon later, on the classes, already determined by the division of labour, which in every such mass of men separate out, and of which one dominates all the others. It follows from this that all struggles within the State, the struggle between democracy, aristocracy, and monarchy, the struggle for the franchise, etc., etc., are merely the illusory forms in which the real struggles of the different classes are fought out among one another (of this the German theoreticians have not the faintest inkling, although they have received a sufficient introduction to the subject in the *Deutsch-Französische Jahrbücher* and *Die heilige Familie*). Further, it follows that every class which is struggling for mastery, even when its domination, as is the case with the proletariat, postulates the abolition of the old form of society in its entirety and of domination itself, must first conquer for itself political power in order to represent its interest in turn as the general interest, which in the first moment it is forced to do. Just because individuals seek only their particular interest, which for them does not coincide with their communal interest (in fact the general is the illusory form of communal life), the latter will be imposed on them as an interest “alien” to them, and “independent” of them as in its turn a particular, peculiar “general” interest; or they themselves must remain within this discord, as in democracy. On the other hand, too, the practical struggle of these particular interests, which constantly really run counter to the communal and illusory communal interests, makes practical intervention and control necessary through the illusory “general” interest in the form of the State.
-
-<hr>
 
 <a href="#refA" name="noteA">A.</a> Marx struck out: “Mein Verhältnis zu meiner Umgebung ist mein Bewußtsein,” My relation to my environment is my consciousness. – See MEGA1 I.5 S. 571, *Textvarianten* 20.
 
-<hr>
+</div>
