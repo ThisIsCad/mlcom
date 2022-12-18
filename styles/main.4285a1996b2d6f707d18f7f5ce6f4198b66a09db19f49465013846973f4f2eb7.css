@@ -465,7 +465,8 @@ em {
     padding: 1rem 0;
     position: absolute;
     background: #0a1922;
-    width: 100%; }
+    width: 100%;
+    top: 58px; }
     .nav-header ul li {
       display: block;
       margin-right: 0; }
