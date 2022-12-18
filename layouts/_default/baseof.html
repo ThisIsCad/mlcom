@@ -21,7 +21,7 @@
   <link rel="stylesheet" href="{{ $style.Permalink }}" integrity="{{ $style.Data.Integrity }}">
 </head>
 
-<body>
+<body class="loading">
     <nav class="nav-header" role="navigation">
         <div class="center mw9 flex-ns flex-wrap items-center justify-start">
             <h1 class=""><a href="/"><img src="/fist.png" /> Marxism-Leninism</a></h1>
@@ -93,6 +93,11 @@
       };
 
       window.onhashchange();
+
+      document.addEventListener("DOMContentLoaded", function() {
+        let node = document.querySelector('.loading');
+        node.classList.remove('loading');
+      });
     </script>
   </body>
 </html>
