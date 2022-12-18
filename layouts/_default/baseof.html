@@ -19,6 +19,12 @@
   {{ $sass := resources.Get "styles/main.scss" }}
   {{ $style := $sass | resources.ToCSS | fingerprint }}
   <link rel="stylesheet" href="{{ $style.Permalink }}" integrity="{{ $style.Data.Integrity }}">
+
+  <style>
+    .nav-header a { 
+      color: #aaa;
+    }
+  </style>
 </head>
 
 <body class="loading">
