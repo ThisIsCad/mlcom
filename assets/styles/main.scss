@@ -475,8 +475,7 @@ em {
     }
 }
 
-#page-videos .curated-channel-list,
-#page-videos .curated-video-list {
+#page-videos .curated-channel-list {
     list-style: none;
     margin-left: 0;
     
@@ -500,6 +499,7 @@ em {
 
     p {
         font-size: 0.9rem;
+        margin-left: 0!important;
     }
 }
 
@@ -514,7 +514,7 @@ em {
     margin-left: 0!important;
     
     li {
-        padding-bottom: 2rem;
+        padding-bottom: 1rem;
     }
 
     .logo {
@@ -525,6 +525,7 @@ em {
         width: 168px; 
         height: 94px;
         border-radius: 10px;
+        margin-top: 6px;
     }
 
     .channel-name {
@@ -533,6 +534,8 @@ em {
 
     p {
         font-size: 0.9rem;
+        margin-left: 184px;
+        min-height: 70px;
     }
 }
 

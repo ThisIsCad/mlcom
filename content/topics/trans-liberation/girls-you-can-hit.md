@@ -1,6 +1,7 @@
 ---
 title: Girls You Can Hit
 description: This is a basic overview of the subject of Trans Liberation.
+pageIcon: /images/trans-flag.png
 tags: [marxism, transgender, trans-liberation, gender]
 author: Unknown Author
 author_details: This work is not attributed to any author.

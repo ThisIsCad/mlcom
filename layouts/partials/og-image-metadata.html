@@ -22,6 +22,10 @@
   {{ $asset := resources.Get "/images/karl-marx-and-frederick-engels.jpg" }}
   {{ $img := $asset.Fill "200x200" }}
   <meta property="og:image" content="https://mlcom.org{{ $img.RelPermalink }}" />
+{{ else if .Params.pageIcon }}
+  {{ $asset := resources.Get .Params.pageIcon }}
+  {{ $img := $asset.Fill "200x200 Center" }}
+  <meta property="og:image" content="https://mlcom.org{{ $img.RelPermalink }}" />
 {{ else }}
   <meta property="og:image" content="https://mlcom.org/android-chrome-192x192.png?fist" />
 {{ end }}
