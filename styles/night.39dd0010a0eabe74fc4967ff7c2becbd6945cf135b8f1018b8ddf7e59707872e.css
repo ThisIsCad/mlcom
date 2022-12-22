@@ -1,0 +1,23 @@
+html.night .slider {
+  background-color: #344658 !important;
+  border: 1px solid #192837 !important; }
+
+html.night body {
+  background-color: #1C262D; }
+  html.night body svg {
+    fill: #ccc; }
+  html.night body .main-content {
+    color: #f1f1f1; }
+    html.night body .main-content h1 {
+      color: #f1f1f1; }
+    html.night body .main-content a {
+      color: #55d0ff; }
+      html.night body .main-content a:hover {
+        color: #b6ebff; }
+    html.night body .main-content blockquote {
+      color: #ababab; }
+    html.night body .main-content #content,
+    html.night body .main-content #sidebar {
+      color: #f1f1f1; }
+    html.night body .main-content ul.taxonomy-list li {
+      border-color: #86a4b7; }
