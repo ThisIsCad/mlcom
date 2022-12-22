@@ -29,7 +29,7 @@ The proletariat is that class in society which lives entirely from the sale of i
 
 No. There have always been poor and working classes; and the working class have mostly been poor. But there have not always been workers and poor people living under conditions as they are today; in other words, there have not always been proletarians, any more than there has always been free unbridled competitions.
 
-## — 4 — <br> How did the proletariat originate?
+## — 4 — <br> How did the proletariat originate? {#h4}
 
 The Proletariat originated in the industrial revolution, which took place in England in the last half of the last (18th) century, and which has since then been repeated in all the civilized countries of the world.
 
@@ -51,7 +51,7 @@ This is how it has come about that in civilized countries at the present time ne
 
 </div>
 
-## — 5 — <br> Under what conditions does this sale of the <br> labor of the proletarians to the bourgeoisie take place?
+## — 5 — <br> Under what conditions does this sale of the <br> labor of the proletarians to the bourgeoisie take place? {#h5}
 
 Labor is a commodity, like any other, and its price is therefore determined by exactly the same laws that apply to other commodities. In a regime of big industry or of free competition – as we shall see, the two come to the same thing – the price of a commodity is, on the average, always equal to its cost of production. Hence, the price of labor is also equal to the cost of production of labor.
 
@@ -61,7 +61,7 @@ However, since business is sometimes better and sometimes worse, it follows that
 
 This economic law of wages operates the more strictly the greater the degree to which big industry has taken possession of all branches of production.
 
-## — 6 — <br> What working classes were there before the industrial revolution?
+## — 6 — <br> What working classes were there before the industrial revolution? {#h6}
 
 The working classes have always, according to the different stages of development of society, lived in different circumstances and had different relations to the owning and ruling classes.
 
@@ -69,7 +69,7 @@ In antiquity, the workers were the slaves of the owners, just as they still are 
 
 In the Middle Ages, they were the serfs of the land-owning nobility, as they still are in Hungary, Poland, and Russia. In the Middle Ages, and indeed right up to the industrial revolution, there were also journeymen in the cities who worked in the service of petty bourgeois masters. Gradually, as manufacture developed, these journeymen became manufacturing workers who were even then employed by larger capitalists.
 
-## — 7 — In what way do proletarians differ from slaves?
+## — 7 — In what way do proletarians differ from slaves? {#h7}
 
 The slave is sold once and for all; the proletarian must sell himself daily and hourly.
 
@@ -81,7 +81,7 @@ The slave counts as a thing, not as a member of society. Thus, the slave can hav
 
 The slave frees himself when, of all the relations of private property, he abolishes only the relation of slavery and thereby becomes a proletarian; the proletarian can free himself only by abolishing private property in general.
 
-## — 8 — In what way do proletarians differ from serfs?
+## — 8 — In what way do proletarians differ from serfs? {#h8}
 
 The serf possesses and uses an instrument of production, a piece of land, in exchange for which he gives up a part of his product or part of the services of his labor.
 
@@ -91,11 +91,11 @@ The serf gives up, the proletarian receives. The serf has an assured existence, 
 
 The serf liberates himself in one of three ways: either he runs away to the city and there becomes a handicraftsman; or, instead of products and services, he gives money to his lord and thereby becomes a free tenant; or he overthrows his feudal lord and himself becomes a property owner. In short, by one route or another, he gets into the owning class and enters into competition. The proletarian liberates himself by abolishing competition, private property, and all class differences.
 
-## — 9 — <br> In what way do proletarians differ from handicraftsmen?
+## — 9 — <br> In what way do proletarians differ from handicraftsmen? {#h9}
 
 In contrast to the proletarian, the so-called handicraftsman, as he still existed almost everywhere in the past (eighteenth) century and still exists here and there at present, is a proletarian at most temporarily. His goal is to acquire capital himself wherewith to exploit other workers. He can often achieve this goal where guilds still exist or where freedom from guild restrictions has not yet led to the introduction of factory-style methods into the crafts nor yet to fierce competition. But as soon as the factory system has been introduced into the crafts and competition flourishes fully, this perspective dwindles away and the handicraftsman becomes more and more a proletarian. The handicraftsman therefore frees himself by becoming either bourgeois or entering the middle class in general, or becoming a proletarian because of competition (as is now more often the case). In which case he can free himself by joining the proletarian movement, i.e., the more or less communist movement. <sup><a href="#note2" name="ref2">[2]</a></sup>
 
-## — 10 — <br> In what way do proletarians differ from manufacturing workers?
+## — 10 — <br> In what way do proletarians differ from manufacturing workers? {#h10}
 
 The manufacturing worker of the 16th to the 18th centuries still had, with but few exception, an instrument of production in his own possession – his loom, the family spinning wheel, a little plot of land which he cultivated in his spare time. The proletarian has none of these things.
 
@@ -103,7 +103,7 @@ The manufacturing worker almost always lives in the countryside and in a more or
 
 The manufacturing worker is torn out of his patriarchal relation by big industry, loses whatever property he still has, and in this way becomes a proletarian.
 
-## — 11 — <br> What were the immediate consequences of the industrial revolution and of the division of society into bourgeoisie and proletariat?
+## — 11 — <br> What were the immediate consequences of the industrial revolution and of the division of society into bourgeoisie and proletariat? {#h11}
 
 First, the lower and lower prices of industrial products brought about by machine labor totally destroyed, in all countries of the world, the old system of manufacture or industry based upon hand labor.
 
@@ -131,7 +131,7 @@ Simultaneously, this process draws members of the bourgeoisie and proletarians t
 
 Moreover, the further this process advances, the more new labor-saving machines are invented, the greater is the pressure exercised by big industry on wages, which, as we have seen, sink to their minimum and therewith render the condition of the proletariat increasingly unbearable. The growing dissatisfaction of the proletariat thus joins with its rising power to prepare a proletarian social revolution.
 
-## — 12 — What were the further consequences of the industrial revolution?
+## — 12 — What were the further consequences of the industrial revolution? {#h12}
 
 Big industry created in the steam engine, and other machines, the means of endlessly expanding industrial production, speeding it up, and cutting its costs. With production thus facilitated, the free competition, which is necessarily bound up with big industry, assumed the most extreme forms; a multitude of capitalists invaded industry, and, in a short while, more was produced than was needed.
 
@@ -143,7 +143,7 @@ But it was not long before too many commodities were again produced and a new cr
 
 Ever since the beginning of this (19th) century, the condition of industry has constantly fluctuated between periods of prosperity and periods of crisis; nearly every five to seven years, a fresh crisis has intervened, always with the greatest hardship for workers, and always accompanied by general revolutionary stirrings and the direct peril to the whole existing order of things.
 
-## — 13 — <br> What follows from these periodic commercial crises?
+## — 13 — <br> What follows from these periodic commercial crises? {#h13}
 
 First:
 
@@ -169,7 +169,7 @@ We see with the greatest clarity:
 
 </div>
 
-## — 14 — <br> What will this new social order have to be like?
+## — 14 — <br> What will this new social order have to be like? {#h14}
 
 Above all, it will have to take the control of industry and of all branches of production out of the hands of mutually competing individuals, and instead institute a system in which all these branches of production are operated by society as a whole – that is, for the common account, according to a common plan, and with the participation of all members of society.
 
@@ -179,7 +179,7 @@ Moreover, since the management of industry by individuals necessarily implies pr
 
 In fact, the abolition of private property is, doubtless, the shortest and most significant way to characterize the revolution in the whole social order which has been made necessary by the development of industry – and for this reason it is rightly advanced by communists as their main demand.
 
-## — 15 — <br> Was not the abolition of private property possible at an earlier time?
+## — 15 — <br> Was not the abolition of private property possible at an earlier time? {#h15}
 
 No. Every change in the social order, every revolution in property relations, is the necessary consequence of the creation of new forces of production which no longer fit into the old property relations.
 
@@ -195,19 +195,19 @@ It is clear that, up to now, the forces of production have never been developed 
 
 Now, however, the development of big industry has ushered in a new period. Capital and the forces of production have been expanded to an unprecedented extent, and the means are at hand to multiply them without limit in the near future. Moreover, the forces of production have been concentrated in the hands of a few bourgeois, while the great mass of the people are more and more falling into the proletariat, their situation becoming more wretched and intolerable in proportion to the increase of wealth of the bourgeoisie. And finally, these mighty and easily extended forces of production have so far outgrown private property and the bourgeoisie, that they threaten at any moment to unleash the most violent disturbances of the social order. Now, under these conditions, the abolition of private property has become not only possible but absolutely necessary.
 
-## — 16 — <br> Will the peaceful abolition of private property be possible?
+## — 16 — <br> Will the peaceful abolition of private property be possible? {#h16}
 
 It would be desirable if this could happen, and the communists would certainly be the last to oppose it. Communists know only too well that all conspiracies are not only useless, but even harmful. They know all too well that revolutions are not made intentionally and arbitrarily, but that, everywhere and always, they have been the necessary consequence of conditions which were wholly independent of the will and direction of individual parties and entire classes.
 
 But they also see that the development of the proletariat in nearly all civilized countries has been violently suppressed, and that in this way the opponents of communism have been working toward a revolution with all their strength. If the oppressed proletariat is finally driven to revolution, then we communists will defend the interests of the proletarians with deeds as we now defend them with words.
 
-## — 17 — <br> Will it be possible for private property to be abolished at one stroke?
+## — 17 — <br> Will it be possible for private property to be abolished at one stroke? {#h17}
 
 No, no more than existing forces of production can at one stroke be multiplied to the extent necessary for the creation of a communal society.
 
 In all probability, the proletarian revolution will transform existing society gradually and will be able to abolish private property only when the means of production are available in sufficient quantity.
 
-## — 18 — <br> What will be the course of this revolution?
+## — 18 — <br> What will be the course of this revolution? {#h18}
 
 Above all, it will establish a democratic constitution, and through this, the direct or indirect dominance of the proletariat. Direct in England, where the proletarians are already a majority of the people. Indirect in France and Germany, where the majority of the people consists not only of proletarians, but also of small peasants and petty bourgeois who are in the process of falling into the proletariat, who are more and more dependent in all their political interests on the proletariat, and who must, therefore, soon adapt to the demands of the proletariat. Perhaps this will cost a second struggle, but the outcome can only be the victory of the proletariat.
 
@@ -245,7 +245,7 @@ It is impossible, of course, to carry out all these measures at once. But one wi
 
 Finally, when all capital, all production, all exchange have been brought together in the hands of the nation, private property will disappear of its own accord, money will become superfluous, and production will so expand and man so change that society will be able to slough off whatever of its old economic habits may remain.
 
-## — 19 — <br> Will it be possible for this revolution to take place in one country alone?
+## — 19 — <br> Will it be possible for this revolution to take place in one country alone? {#h19}
 
 No. By creating the world market, big industry has already brought all the peoples of the Earth, and especially the civilized peoples, into such close relation with one another that none is independent of what happens to the others.
 
@@ -255,7 +255,7 @@ It will develop in each of these countries more or less rapidly, according as on
 
 It is a universal revolution and will, accordingly, have a universal range.
 
-## — 20 — <br> What will be the consequences of the <br> ultimate disappearance of private property?
+## — 20 — <br> What will be the consequences of the <br> ultimate disappearance of private property? {#h20}
 
 Society will take all forces of production and means of commerce, as well as the exchange and distribution of products, out of the hands of private capitalists and will manage them in accordance with a plan based on the availability of resources and the needs of the whole society. In this way, most important of all, the evil consequences which are now associated with the conduct of big industry will be abolished.
 
@@ -279,21 +279,21 @@ A corollary of this is that the difference between city and country is destined 
 
 The general co-operation of all members of society for the purpose of planned exploitation of the forces of production, the expansion of production to the point where it will satisfy the needs of all, the abolition of a situation in which the needs of some are satisfied at the expense of the needs of others, the complete liquidation of classes and their conflicts, the rounded development of the capacities of all members of society through the elimination of the present division of labor, through industrial education, through engaging in varying activities, through the participation by all in the enjoyments produced by all, through the combination of city and country – these are the main consequences of the abolition of private property.
 
-## — 21 — <br> What will be the influence of communist society on the family?
+## — 21 — <br> What will be the influence of communist society on the family? {#h21}
 
 It will transform the relations between the sexes into a purely private matter which concerns only the persons involved and into which society has no occasion to intervene. It can do this since it does away with private property and educates children on a communal basis, and in this way removes the two bases of traditional marriage – the dependence rooted in private property, of the women on the man, and of the children on the parents.
 
 And here is the answer to the outcry of the highly moral philistines against the “community of women”. Community of women is a condition which belongs entirely to bourgeois society and which today finds its complete expression in prostitution. But prostitution is based on private property and falls with it. Thus, communist society, instead of introducing community of women, in fact abolishes it.
 
-## — 22 — <br> What will be the attitude of communism to existing nationalities?
+## — 22 — <br> What will be the attitude of communism to existing nationalities? {#h22}
 
 The nationalities of the peoples associating themselves in accordance with the principle of community will be compelled to mingle with each other as a result of this association and thereby to dissolve themselves, just as the various estate and class distinctions must disappear through the abolition of their basis, private property.<sup><a href="#note3" name="ref3">[3]</a></sup>
 
-## — 23 — <br> What will be its attitude to existing religions?
+## — 23 — <br> What will be its attitude to existing religions? {#h23}
 
 All religions so far have been the expression of historical stages of development of individual peoples or groups of peoples. But communism is the stage of historical development which makes all existing religions superfluous and brings about their disappearance<sup><a href="#note4" name="ref4">[4]</a></sup>
 
-## — 24 — <br> How do communists differ from socialists?
+## — 24 — <br> How do communists differ from socialists? {#h24}
 
 The so-called socialists are divided into three categories.
 
