@@ -1,6 +1,7 @@
 ---
 title: Karl Marx
 author: karl marx
+description: Karl Marx was a German philosopher, economist, sociologist, historian, journalist, and revolutionary socialist. He was best known for his contributions to the theory of communism, which he developed with Friedrich Engels. 
 ---
 
 ## Recommended Beginner Works
