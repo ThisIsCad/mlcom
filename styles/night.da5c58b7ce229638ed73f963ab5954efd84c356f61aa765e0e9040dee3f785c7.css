@@ -16,6 +16,8 @@ html.night body {
         color: #b6ebff; }
     html.night body .main-content blockquote {
       color: #ababab; }
+    html.night body .main-content .note {
+      background-color: #1a435a; }
     html.night body .main-content #content,
     html.night body .main-content #sidebar {
       color: #f1f1f1; }

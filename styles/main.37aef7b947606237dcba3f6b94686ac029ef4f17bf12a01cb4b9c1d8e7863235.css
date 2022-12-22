@@ -245,6 +245,9 @@ em {
       font-size: 0.8rem; }
   .main-content .original-attributions {
     font-size: 0.8rem; }
+  .main-content #sidebar-text {
+    border-bottom: 1px solid #777;
+    padding-bottom: 1rem; }
   .main-content .author-biopic,
   .main-content .author-biopic-sq {
     width: 200px;
