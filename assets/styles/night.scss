@@ -1,0 +1,45 @@
+html.night {
+    .slider {
+        background-color: #344658!important;
+        border: 1px solid #192837!important;
+    }
+
+    body {
+        background-color: #1C262D;
+
+        svg {
+            fill: #ccc;
+        }
+
+        .main-content {
+            color: #f1f1f1;
+
+            h1 {
+                color: #f1f1f1;
+            }
+
+            a {
+                color: #55d0ff;
+
+                &:hover {
+                    color: #b6ebff;
+                }
+            }
+
+            blockquote {
+                color: #ababab;
+            }
+
+            #content,
+            #sidebar {
+                color: #f1f1f1;
+            }
+
+            ul.taxonomy-list {
+                li {
+                    border-color: #86a4b7;
+                }
+            }
+        }
+    }
+}

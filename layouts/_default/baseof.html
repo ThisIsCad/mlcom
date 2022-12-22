@@ -19,6 +19,9 @@
   {{ $sass := resources.Get "styles/main.scss" }}
   {{ $style := $sass | resources.ToCSS | fingerprint }}
   <link rel="stylesheet" href="{{ $style.Permalink }}" integrity="{{ $style.Data.Integrity }}">
+  {{ $sass := resources.Get "styles/night.scss" }}
+  {{ $style := $sass | resources.ToCSS | fingerprint }}
+  <link rel="stylesheet" href="{{ $style.Permalink }}" integrity="{{ $style.Data.Integrity }}">
 
   <style>
     .nav-header a { 
@@ -30,7 +33,7 @@
 <body class="loading">
     <nav class="nav-header" role="navigation">
         <div class="center mw9 flex-ns flex-wrap items-center justify-start">
-            <h1 class=""><a href="/"><img src="/fist.png" /> Marxism-Leninism</a></h1>
+            <h1 class=""><a href="/"><img src="/fist.png" /> <span>Marxism-Leninism</span></a></h1>
 
             <a href="#" id="hamburger-menu">
               <span id="hamburger-1"></span>
@@ -39,13 +42,30 @@
             </a>
 
             <ul id="main-menu">
-                <li><a href="/topics">Topics</a></li>
-                <li><a href="/archives">Archives</a></li>
-                <li><a href="/videos">Videos</a></li>
-                <li><a href="/posts">Community Posts</a></li>
-                <li><a href="/glossary">Glossary</a></li>
-                <li><a href="/contribute">Contribute</a></li>
-                <li><a target="_blank" href="https://solidaritypost.org/">Solidarity Post<svg style="margin-left:6px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="12" height="12" viewBox="0 0 32 32" class="fill-current v-base" aria-label="External Link"><path d="M25.152 16.576v5.696q0 2.144-1.504 3.648T20 27.424H5.152q-2.144.0-3.648-1.504t-1.504-3.648V7.424q0-2.112 1.504-3.616t3.648-1.536h12.576q.224.0.384.16t.16.416V4q0 .256-.16.416t-.384.16H5.152q-1.184.0-2.016.832t-.864 2.016v14.848q0 1.184.864 2.016t2.016.864H20q1.184.0 2.016-.864t.832-2.016v-5.696q0-.256.16-.416t.416-.16h1.152q.256.0.416.16t.16.416zM32 1.152v9.12q0 .48-.352.8t-.8.352-.8-.352l-3.136-3.136-11.648 11.648q-.16.192-.416.192t-.384-.192l-2.048-2.048q-.192-.16-.192-.384t.192-.416L24.064 5.088l-3.136-3.136q-.352-.352-.352-.8t.352-.8.8-.352h9.12q.48.0.8.352t.352.8z"></path></svg></a></li>
+              <li><a href="/topics">Topics</a></li>
+              <li><a href="/archives">Archives</a></li>
+              <li><a href="/videos">Videos</a></li>
+              <li><a href="/posts">Community Posts</a></li>
+              <li><a href="/glossary">Glossary</a></li>
+              <li><a href="/contribute">Contribute</a></li>
+              <li><a target="_blank" href="https://solidaritypost.org/">Solidarity Post<svg style="margin-left:6px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="12" height="12" viewBox="0 0 32 32" class="fill-current v-base" aria-label="External Link"><path d="M25.152 16.576v5.696q0 2.144-1.504 3.648T20 27.424H5.152q-2.144.0-3.648-1.504t-1.504-3.648V7.424q0-2.112 1.504-3.616t3.648-1.536h12.576q.224.0.384.16t.16.416V4q0 .256-.16.416t-.384.16H5.152q-1.184.0-2.016.832t-.864 2.016v14.848q0 1.184.864 2.016t2.016.864H20q1.184.0 2.016-.864t.832-2.016v-5.696q0-.256.16-.416t.416-.16h1.152q.256.0.416.16t.16.416zM32 1.152v9.12q0 .48-.352.8t-.8.352-.8-.352l-3.136-3.136-11.648 11.648q-.16.192-.416.192t-.384-.192l-2.048-2.048q-.192-.16-.192-.384t.192-.416L24.064 5.088l-3.136-3.136q-.352-.352-.352-.8t.352-.8.8-.352h9.12q.48.0.8.352t.352.8z"></path></svg></a></li>
+            
+              <li class="color-mode">
+                {{ $asset := resources.Get "/images/sun-solid.png" }}
+                {{ $img := $asset.Fit "32x32" }}
+                <img class="light-mode" alt="Light Mode" src="{{ $img.RelPermalink }}" />
+
+                <div class="toggle-switch">
+                  <label class="switch">
+                    <input type="checkbox" id="switch-style">
+                    <span class="slider round"></span>
+                  </label>
+                </div>
+
+                {{ $asset := resources.Get "/images/moon-solid.png" }}
+                {{ $img := $asset.Fit "32x32" }}
+                <img class="night-mode" alt="Night Mode" src="{{ $img.RelPermalink }}" />
+              </li>
             </ul>
         </div>
     </nav>
@@ -77,6 +97,21 @@
           main_menu.classList = ['visible'];
         }
       });
+
+      document.getElementById('switch-style').addEventListener('change', (event) => {
+        if (event.target.checked) {
+          document.getElementsByTagName('html')[0].classList.add('night');
+          document.cookie = 'colorMode=night; expires=Sun, 30 Dec 2029 12:00:00 UTC; path=/';
+        } else {
+          document.getElementsByTagName('html')[0].classList.remove('night');
+          document.cookie = 'colorMode=light; expires=Sun, 30 Dec 2029 12:00:00 UTC; path=/';
+        }
+      });
+
+      if ((document.cookie || '').includes('colorMode=night')) {
+        document.getElementById('switch-style').checked = true;
+        document.getElementsByTagName('html')[0].classList.add('night');
+      }
 
       var activeFootnote = null;
 

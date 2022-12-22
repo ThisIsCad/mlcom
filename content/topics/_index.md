@@ -3,11 +3,11 @@ title: Topics
 ---
 
 - <a href="/topics/getting-started/">
-    {{< imgfill "/images/topic_getting_started.jpg" "216x216" >}}
+    {{< imgfill "/images/topic_getting_started.jpg" "216x216 center" >}}
     <h3>Getting Started</h3>
   </a>
 - <a href="/topics/marxism-101/">
-    {{< imgfill "/images/author_karl_marx.png" "216x216" >}}
+    {{< imgfill "/images/author_karl_marx.png" "216x216 top" >}}
     <h3>Marxism-Leninism 101</h3>
   </a>
 - <a href="/topics/socialism-myths/">
@@ -27,6 +27,6 @@ title: Topics
     <h3>Gender Abolition</h3>
   </a>
 - <a href="/topics/trans-liberation/">
-    {{< imgfill "/images/topic_trans_liberation.jpg" "216x216" >}}
+    {{< imgfill "/images/topic_trans_liberation.jpg" "216x216 center" >}}
     <h3>Trans Liberation</h3>
   </a>
