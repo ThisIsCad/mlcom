@@ -18,6 +18,8 @@ html.night body {
       color: #ababab; }
     html.night body .main-content .note {
       background-color: #1a435a; }
+    html.night body .main-content .nav-links li {
+      background-color: #204052; }
     html.night body .main-content #content,
     html.night body .main-content #sidebar {
       color: #f1f1f1; }
