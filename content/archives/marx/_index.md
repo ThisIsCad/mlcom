@@ -9,3 +9,9 @@ author: karl marx
 - [1867: Capital, Chapter One](1867-capital-volume-one/chapter01/) — 
   Das Kapital, also known as Capital: A Critique of Political Economy or sometimes simply Capital, is a foundational theoretical text in materialist philosophy, critique of political economy and politics by Karl Marx. The full text is not available online, but the first chapter serves as a good introduction to material.
 - [1845: The German Ideology, Chapter One](/archives/marx/1845-german-ideology/chapter01/) — Chapter One of The German Ideology is an exposition of Marx's materialist conception of history.
+
+## Das Kapital
+
+- [<span class="badge">PDF</span> Capital - A Critique of Political Economy - Volume I](https://www.marxists.org/archive/marx/works/download/pdf/Capital-Volume-I.pdf )
+- [<span class="badge">PDF</span> Capital - A Critique of Political Economy - Volume II](https://www.marxists.org/archive/marx/works/download/pdf/Capital-Volume-II.pdf)
+- [<span class="badge">PDF</span> Capital - A Critique of Political Economy - Volume III](https://www.marxists.org/archive/marx/works/download/pdf/Capital-Volume-III.pdf)

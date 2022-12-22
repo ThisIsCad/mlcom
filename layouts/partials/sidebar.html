@@ -2,7 +2,7 @@
   {{ partial "archive-bios.html" . }}
 
   {{ if .Params.sidebar }}
-    <p>{{ .Params.sidebar | safeHTML }}</p>
+    <p id="sidebar-text">{{ .Params.sidebar | safeHTML }}</p>
   {{ end }}
 
   {{ if .Params.attributions }}

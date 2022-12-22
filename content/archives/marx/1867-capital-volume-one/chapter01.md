@@ -10,6 +10,10 @@ attributions: >
   Transcribed by Bert Schultz (1993)<br>
   Html Markup by Brian Baggins & Andy Blunden (1999)<br>
   Proofed and Corrected by Andy Blunden (2005)
+sidebar: >
+  <a href="https://www.marxists.org/archive/marx/works/download/pdf/Capital-Volume-I.pdf"><span class="badge">PDF</span> Capital: Volume I</a><br>
+  <a href="https://www.marxists.org/archive/marx/works/download/pdf/Capital-Volume-II.pdf"><span class="badge">PDF</span> Capital: Volume II</a><br>
+  <a href="https://www.marxists.org/archive/marx/works/download/pdf/Capital-Volume-III.pdf"><span class="badge">PDF</span> Capital: Volume III</a><br>
 ---
 
 <div class="note">
