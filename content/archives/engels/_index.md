@@ -3,4 +3,4 @@ title: Friedrich Engels
 author: friedrich engels
 ---
 
-Nothing is here yet
+{{< articles "1847-principles-of-communism" >}}

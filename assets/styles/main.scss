@@ -4,6 +4,7 @@
 html {
     line-height: 1.15;
     -webkit-text-size-adjust: 100%;
+    scroll-padding-top: 100px;
 }
 
 body {
@@ -408,6 +409,14 @@ em {
         position: relative;
         top: -2px;
     }
+
+    .indent {
+        margin-left: 3rem;
+    }
+}
+
+#page-archivesengels1847-principles-of-communism h2 {
+    text-align: center;
 }
 
 .footer {
