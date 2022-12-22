@@ -1,6 +1,7 @@
 ---
-works: J. V. Stalin September 1938
+works: Dialectical and Historical Materialism
 title: Dialectical and Historical Materialism
+hidetitle: true
 description: This 1938 work by Joseph Stalin describes in-depth, dialectical and historical materialism, synthesizing works from Marx, Engels, and Lenin
 tags: [dialectics, dialectical-materialism, historical-materialism]
 author: joseph stalin
