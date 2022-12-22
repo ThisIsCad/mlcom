@@ -392,15 +392,12 @@ em {
       display: block;
       margin: 0.6rem 0 0; }
 
-#page-videos .curated-channel-list,
-#page-videos .curated-video-list {
+#page-videos .curated-channel-list {
   list-style: none;
   margin-left: 0; }
-  #page-videos .curated-channel-list li,
-  #page-videos .curated-video-list li {
+  #page-videos .curated-channel-list li {
     padding-bottom: 2rem; }
-  #page-videos .curated-channel-list .logo,
-  #page-videos .curated-video-list .logo {
+  #page-videos .curated-channel-list .logo {
     display: block;
     width: 70px;
     height: 70px;
@@ -408,12 +405,11 @@ em {
     overflow: hidden;
     float: left;
     margin-right: 1rem; }
-  #page-videos .curated-channel-list .channel-name,
-  #page-videos .curated-video-list .channel-name {
+  #page-videos .curated-channel-list .channel-name {
     font-size: 1.2rem; }
-  #page-videos .curated-channel-list p,
-  #page-videos .curated-video-list p {
-    font-size: 0.9rem; }
+  #page-videos .curated-channel-list p {
+    font-size: 0.9rem;
+    margin-left: 0 !important; }
 
 #page-videos #recommended-videos {
   margin-top: 0; }
@@ -422,7 +418,7 @@ em {
   list-style: none !important;
   margin-left: 0 !important; }
   .curated-video-list li {
-    padding-bottom: 2rem; }
+    padding-bottom: 1rem; }
   .curated-video-list .logo {
     display: block;
     overflow: hidden;
@@ -430,11 +426,14 @@ em {
     margin-right: 1rem;
     width: 168px;
     height: 94px;
-    border-radius: 10px; }
+    border-radius: 10px;
+    margin-top: 6px; }
   .curated-video-list .channel-name {
     font-size: 1.2rem; }
   .curated-video-list p {
-    font-size: 0.9rem; }
+    font-size: 0.9rem;
+    margin-left: 184px;
+    min-height: 70px; }
 
 #page-glossary ul {
   list-style: none;
