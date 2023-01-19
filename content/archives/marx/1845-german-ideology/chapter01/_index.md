@@ -28,10 +28,10 @@ attributions: >
     - [First Premises of the Materialist Method]({{< ref "part-1-idealism-and-materialism.md#h2" >}})
     - [History: Fundamental Conditions]({{< ref "part-1-idealism-and-materialism.md#h3" >}})
     - [Private Property and Communism]({{< ref "part-1-idealism-and-materialism.md#h4" >}})
-  - B. The Illusion of the Epoch
-    - Civil Society — and the Conception of History
-    - Feuerbach: Philosophic, and Real, Liberation
-    - Ruling Class and Ruling Ideas
+  - [B. The Illusion of the Epoch]({{< ref "part-2-illusion-of-the-epoch.md" >}})
+    - [Civil Society — and the Conception of History]({{< ref "part-2-illusion-of-the-epoch.md#h1" >}})
+    - [Feuerbach: Philosophic, and Real, Liberation]({{< ref "part-2-illusion-of-the-epoch.md#h2" >}})
+    - [Ruling Class and Ruling Ideas]({{< ref "part-2-illusion-of-the-epoch.md#h3" >}})
   - C. The Real Basis of Ideology
     - Division of Labor: Town and Country
     - The Rise of Manufacturing

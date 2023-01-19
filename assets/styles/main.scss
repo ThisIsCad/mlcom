@@ -412,6 +412,12 @@ em {
         }
     }
 
+    .signature {
+        font-family: "Vivaldi", script, serif;
+        font-size: 1.4rem;
+        margin-left: 20px;
+    }
+
     .nav-links {
         list-style: none;
         margin-left: 0;
@@ -458,10 +464,31 @@ em {
         margin: 0 2rem 2rem;
     }
 
+    .context {
+        color: #999; 
+    }
+
     .editors-note,
     .ednote {
         color: #999;
         font-size: 0.9rem;
+    }
+
+    .marginal-note,
+    .mnote {
+        font-size: 0.9rem;
+        margin-bottom: 1rem;
+        background-color: #fbffc2;
+        padding: 0.5rem 1rem;
+
+        .ednote {
+            color: #a5a5a5;
+        }
+    }
+
+    hr.small {
+        width: 50%;
+        margin: 0 auto 1rem;
     }
 
     .footnotes {

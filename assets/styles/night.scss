@@ -48,6 +48,21 @@ html.night {
                     border-color: #86a4b7;
                 }
             }
+
+            .footnotes {
+                p.highlight {
+                    background: #2d4d6a;
+                }
+            }
+
+            .marginal-note,
+            .mnote {
+                background-color: #56583c;
+
+                .ednote {
+                    color: #a5a5a5;
+                }
+            }
         }
     }
 }

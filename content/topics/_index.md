@@ -30,3 +30,18 @@ title: Topics
     {{< imgfill "/images/topic_trans_liberation.jpg" "216x216 center" >}}
     <h3>Trans Liberation</h3>
   </a>
+
+## Socialist Countries
+
+- <a href="/topics/china/">
+    {{< imgfill "/images/topic_china.jpg" "216x216" >}}
+    <h3>China</h3>
+  </a>
+- <a href="/topics/cuba/">
+    {{< imgfill "/images/topic_cuba.jpg" "216x216" >}}
+    <h3>Cuba</h3>
+  </a>
+- <a href="/topics/dprk/">
+    {{< imgfill "/images/topic_dprk.jpg" "216x216 center" >}}
+    <h3>DPRK (North Korea)</h3>
+  </a>

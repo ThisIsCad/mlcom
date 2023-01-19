@@ -1,6 +1,6 @@
 ---
 title: Marxism-Leninism 101
-description: A curated list of reading material and videos for new Marxist-Leninists.
+description: A curated list of reading material and videos for new Marxist-Leninists or new socialists in general who are interested in learning more about socialism & communism from a Marxist-Leninist perspective.
 sidebar: This page provides a curated list of reading material and videos for new Marxist-Leninists.
 ---
 
@@ -8,6 +8,7 @@ sidebar: This page provides a curated list of reading material and videos for ne
 
 {{< articles 
     "/archives/engels/1847-principles-of-communism/"
+    "/archives/marx/1875-gotha-critique/"
     "/archives/lenin/works/1913/three-sources-and-three-component-parts-of-marxism.md" 
     "/archives/lenin/works/1914/karl-marx/" 
     "/archives/1848-communist-manifesto/"
