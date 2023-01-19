@@ -25,3 +25,11 @@ html.night body {
       color: #f1f1f1; }
     html.night body .main-content ul.taxonomy-list li {
       border-color: #86a4b7; }
+    html.night body .main-content .footnotes p.highlight {
+      background: #2d4d6a; }
+    html.night body .main-content .marginal-note,
+    html.night body .main-content .mnote {
+      background-color: #56583c; }
+      html.night body .main-content .marginal-note .ednote,
+      html.night body .main-content .mnote .ednote {
+        color: #a5a5a5; }
