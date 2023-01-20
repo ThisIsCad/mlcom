@@ -7,6 +7,14 @@ autolist: true
 
 <ul class="curated-video-list">
   <li>
+    <a class="logo" href="https://www.youtube.com/watch?v=MjwL1mSrPLA">
+        {{< imgfill "/images/video_MjwL1mSrPLA.jpg" "168x94" >}}
+    </a>
+    <a class="channel-name" href="https://www.youtube.com/watch?v=MjwL1mSrPLA">Debunking Every Anti-Communist Argument Ever</a>
+    <p>This video by Spooky Scary Socialist addresses a number of the most common anti-communist arguments, with timestamps in the description for easy viewing.</p>
+  </li>
+
+  <li>
     <a class="logo" href="https://www.youtube.com/watch?v=FEHYeeRCtVI">
         {{< imgfill "/images/video_FEHYeeRCtVI.jpg" "168x94" >}}
     </a>
