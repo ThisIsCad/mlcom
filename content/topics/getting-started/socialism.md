@@ -47,6 +47,8 @@ People live in relative abundance, as planned economies allow us to avoid resour
 
 Precise details about what communism will look like are hard to determine, because it is a long term plan that will be shaped by the technology and circumstances at the time. Is is a goal to work towards in the long term, but not something we will accomplish overnight. Communism isn't the endpoint either, just a new beginning point for further change. Principled communists believe in the continued progress of society, not stagnation. We reject the notion of an "end to history", as society is never static and is always changing.
 
+It's worth noting that while *private property* will be abolished entirely, this refers to private ownership over the *means of production* (factories, workshops, tools, farms, raw resources, etc), *not* the ownership of personal property (such as a home, toothbrush, bicycle, etc). Items you use for yourself, not to produce goods or services for others.
+
 <hr class="small">
 
 ## Marxism 
