@@ -17,6 +17,7 @@ sidebar: >
 {{< articles 
     "/topics/getting-started/socialism.md"
     "/posts/@solidaritypost/idealism-vs-materialism.md"
+    "/topics/marxism-101/_index.md"
 >}}
 
 ## Curated Videos
