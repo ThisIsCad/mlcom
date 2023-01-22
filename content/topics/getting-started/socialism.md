@@ -31,7 +31,7 @@ The government under capitalism was created by capitalists, and exists to keep t
 
 **Socialism** is the transitionary stage between Capitalism, and Communism. Being a transitionary stage, it inherently spans a spectrum of characteristics, being closer towards Capitalism in the earlier stages, and getting progressively closer to Communism as time goes on. 
 
-The single defining characteristic of Socialism is the inversion of the power dynamic between worker (*proletariat*) and capitalist (*bourgeois*). This is defined by Karl Marx as the Dictatorship of the Proletariat, however, *dictatorship* is being used differently then how you might be used to seeing. Marx describes the *state* as a dictatorship of the ruling *class*, with Capitalism having a Dictatorship of the Bourgeois, and Socialism having a Dictatorship of the Proletariat. This just means the state is run by a party of the working class, e.g. the Communist Party. 
+The single defining characteristic of Socialism is the inversion of the power dynamic between worker (*proletariat*) and capitalist (*bourgeois*). This is defined by Karl Marx as the Dictatorship of the Proletariat, however, *dictatorship* is being used differently then how you might be used to seeing. Marx describes the *state* as a dictatorship of the ruling *class*, with Capitalism having a Dictatorship of the Bourgeois, and Socialism having a Dictatorship of the Proletariat. This just means the state is run by a party of the working class, e.g. the Communist Party. While no capitalist parties are allowed, socialist governments are still highly democratic. See [Socialist Democracy]({{< ref "socialist-democracy.md" >}}) for more information.
 
 The government is controlled by the working class, instead of the capitalist class. While capitalism is slowly dismantled, the party of the working class serve to keep the capitalists in check, and accountable to the workers. Unions and labor rights grow until they become universal, landlords are phased out and people can directly buy houses or receive public housing from the government. Healthcare and education become more accessible. 
 
@@ -41,7 +41,7 @@ These are the characteristics that Socialism would hold over time, but no two co
 
 ## Communism 
 
-**Communism** is the stage after socialism, once capitalism has been abolished entirely. The power dynamic between worker and capitalist no longer exist, as there are no longer separate *classes*. The tools that have previously served to oppress the working class or capitalist class are no longer necessary, and wither away. 
+**Communism** is the stage after socialism, once capitalism has been abolished entirely. The power dynamic between worker and capitalist no longer exist, as there are no longer separate *classes*. The tools that have previously served to oppress the working class or capitalist class are no longer necessary, and wither away. The government will likely still exist, and will continue to be an instrument of democracy. See [Socialist Democracy]({{< ref "socialist-democracy.md" >}}) for more information.
 
 People live in relative abundance, as planned economies allow us to avoid resource waste, and ensure food and other goods are delivered to where they are needed. All of society benefits from improvements such as automation, which allow shorter working weeks for all.
 
