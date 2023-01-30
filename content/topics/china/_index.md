@@ -1,6 +1,6 @@
 ---
 title: China
-description: A curated list of reading material and videos about China
+description: A curated list of reading material and videos about China. Covers various frequently asked questions/topics, such as if China is socialist or capitalist, if they have democracy, the "genocide" myths, and more.
 ---
 
 ## Curated reading
