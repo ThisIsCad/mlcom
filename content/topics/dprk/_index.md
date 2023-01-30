@@ -1,6 +1,6 @@
 ---
 title: DPRK
-description: A curated list of reading material and videos about the DPRK (North Korea)
+description: A curated list of reading material and videos about the DPRK (North Korea). Covers various frequently asked questions/topics, such as if the DPRK is socialist, is it authoritarian, why are there so many outlandish news stories about it, and why are defectors so critical of it?
 ---
 
 
