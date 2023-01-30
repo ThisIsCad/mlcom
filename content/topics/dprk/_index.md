@@ -4,6 +4,16 @@ description: A curated list of reading material and videos about the DPRK (North
 ---
 
 
+
+## Curated reading
+
+<ul class="taxonomy-list">
+  <li>
+    <a href="https://writetorebel.com/2017/03/28/socialism-and-democracy-in-the-dprk/">Socialism and Democracy in the DPRK <span class="badge">Article</span></a>
+    <p>The DPRK is continuously cast as a villain in international politics. The “hermit kingdom” is painted as tyrannical, repressive, and dynastic. In this essay, the author wants to argue the opposite: North Korea is a deeply democratic country, and this is reflective of its socialist values.</p>
+  </li>
+</ul>
+
 ## Curated Videos
 
 <ul class="curated-video-list">
