@@ -384,6 +384,16 @@ em {
             li {
                 border-left: 6px solid #0a1922;
                 padding-left: 1.5rem;
+
+                &:after {
+                    content: " ";
+                    display: block;
+                    width: 60%;
+                    margin: 0 auto 40px;
+                    position: relative;
+                    top: 20px;
+                    border-bottom: 1px solid #575a6a;
+                }
         
                 a {
                     font-size: 1.1rem;
@@ -391,6 +401,10 @@ em {
                 
                 p {
                     font-size: 0.9rem;
+
+                    &:last-child {
+                        margin-bottom: 0;
+                    }
                 }
             }
         }

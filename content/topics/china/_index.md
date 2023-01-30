@@ -17,7 +17,7 @@ description: A curated list of reading material and videos about China
   </li>
 
   <li>
-    <a href="https://www.qiaocollective.com/education/xinjiang">Not Some Other -ism<span class="badge">Paper</span></a>
+    <a href="https://www.qiaocollective.com/education/xinjiang">Not Some Other -ism <span class="badge">Paper</span></a>
     <p>
       This study tackles four Western Marxist misrepresentations of
        socialism with Chinese characteristics, particularly as it has  
@@ -46,8 +46,16 @@ description: A curated list of reading material and videos about China
 
   <li>
     <a href="https://www.qiaocollective.com/education/xinjiang">Most in China Call Their Nation A Democracy, Most in U.S. Say America Isn't <span class="badge">Article</span></a>
-    <p>he overwhelming majority of people living in China say they are living in a democracy. Most people in the United States say they do not. These findings are part of a new study published by the Denmark-based Alliance of Democracies Foundation and Germany-based Latana data tracking firm. Part of the latest installment of the annual Democracy Perception Index published Monday, the study explores public opinions of democracy among 52,785 respondents across 53 nations and territories, including China and the U.S., surveyed between March 30 and May 10 of this year.</p>
+    <p>The overwhelming majority of people living in China say they are living in a democracy. Most people in the United States say they do not. These findings are part of a new study published by the Denmark-based Alliance of Democracies Foundation and Germany-based Latana data tracking firm. Part of the latest installment of the annual Democracy Perception Index published Monday, the study explores public opinions of democracy among 52,785 respondents across 53 nations and territories, including China and the U.S., surveyed between March 30 and May 10 of this year.</p>
   </li>
+
+  <li>
+    <a href="https://www.qiaocollective.com/education/tiananmenreadinglist">Tiananmen Protests Reading List <span class="badge">List</span></a>
+    <p>More than thirty years later, the Tiananmen Square protests of 1989 remain a touchstone of a Western mythology spun to challenge the fundamental legitimacy of the Communist Party of China. By collapsing the diverse and often contradictory demands of protesters into a simplistic call for Western-style capitalist democracy, the West’s selective memory of June 4 continues to inform liberal platitudes to “stand with the Chinese people” against their government, reifying the universality of Western capitalism and U.S. global hegemony in the process.<br><br>
+
+This reading list compiles primary sources, Chinese state documents, and media fact-checking reports to challenge the hegemonic narrative of the Tiananmen protests. Far from the Western fairy-tale, these texts understand the June 4 tragedy in the context of the erosion of actually-existing socialism in the Soviet bloc, the contradictions of the reform and opening up period, antagonisms between student protesters, urban workers, and rural peasants, and the long challenge to China’s socialist past by “reformers” seeking to replicate the Western neoliberal model. </p>
+  </li>
+  
 </ul>
 
 ## Curated Videos
