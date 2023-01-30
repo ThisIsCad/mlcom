@@ -12,6 +12,14 @@ description: A curated list of reading material and videos about the DPRK (North
     <a href="https://writetorebel.com/2017/03/28/socialism-and-democracy-in-the-dprk/">Socialism and Democracy in the DPRK <span class="badge">Article</span></a>
     <p>The DPRK is continuously cast as a villain in international politics. The “hermit kingdom” is painted as tyrannical, repressive, and dynastic. In this essay, the author wants to argue the opposite: North Korea is a deeply democratic country, and this is reflective of its socialist values.</p>
   </li>
+
+  <li>
+    <a href="  https://web.archive.org/web/20221221172256/https://www.theguardian.com/world/2015/oct/13/why-do-north-korean-defector-testimonies-so-often-fall-apart">
+Why do North Korean defector testimonies so often fall apart? <span class="badge">Article</span></a>
+    <p>Cash incentives and the western media’s endless appetite for shocking stories encourage refugees to exaggerate, Jiyoung Song argues. This article is written by The Guardian.</p>
+  </li>
+
+
 </ul>
 
 ## Curated Videos
