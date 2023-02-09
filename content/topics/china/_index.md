@@ -39,7 +39,7 @@ There is also a [fantastic collection of resources](https://github.com/dessaline
 
   <li>
     <a href="https://www.qiaocollective.com/education/xinjiang">Most in China Call Their Nation A Democracy, Most in U.S. Say America Isn't <span class="badge">Article</span></a>
-    <p>The overwhelming majority of people living in China say they are living in a democracy. Most people in the United States say they do not. These findings are part of a new study published by the Denmark-based Alliance of Democracies Foundation and Germany-based Latana data tracking firm. Part of the latest installment of the annual Democracy Perception Index published Monday, the study explores public opinions of democracy among 52,785 respondents across 53 nations and territories, including China and the U.S., surveyed between March 30 and May 10 of this year.</p>
+    <p>China has not had a class of professional politicians, military rulers, inherited wealth or oligarchs for two thousand years. This absence of a feudal past–more than its recent experiments with democracy–separates the Chinese governance expectations from ours.</p>
   </li>
 
   <li>
