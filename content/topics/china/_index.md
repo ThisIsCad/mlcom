@@ -3,6 +3,12 @@ title: China
 description: A curated list of reading material and videos about China. Covers various frequently asked questions/topics, such as if China is socialist or capitalist, if they have democracy, the "genocide" myths, and more.
 ---
 
+China is one of the already existing socialist countries in the world, and as such, it is the target of vast amounts of capitalist propaganda. Socialism is an existential threat to capitalists, and they will take whatever steps they can to prolong their stay in power. This includes media manipulation of state and capitalist owned media to spread anti-chinese sentiment constantly.
+
+The US has prisons. China has prison camps. The US has undercover cops. China has secret police. Ordinary peaceful protests are used as examples of anti-government sentiment, when the truth is that most Chinese citizens support the CPC. The propaganda runs deep, so here are a collection of resources debunking the most common myths.
+
+There is also a [fantastic collection of resources](https://github.com/dessalines/essays/blob/master/socialism_faq.md#on-mao-maoism-and-marxism-leninism-maoism-and-the-prc) on GitHub, but many links no longer work. We will endeavour to ensure the working, valuable links are included below.
+
 ## Democracy In China
 
 <ul class="taxonomy-list">
