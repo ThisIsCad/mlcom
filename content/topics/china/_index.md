@@ -3,7 +3,46 @@ title: China
 description: A curated list of reading material and videos about China. Covers various frequently asked questions/topics, such as if China is socialist or capitalist, if they have democracy, the "genocide" myths, and more.
 ---
 
-## Curated reading
+## Democracy In China
+
+<ul class="taxonomy-list">
+  <li>
+    <a href="https://www.youtube.com/watch?v=Qu4QTxl9GVw/">How does China’s political system work? <span class="badge">Video</span></a>
+    <p>China's political system has a unique multiparty cooperation system. It is different from both the pluralist party system in the west and one party-system seen elsewhere. The CPC acts as the ruling party but co-operates and consults with the other 8 parties.</p>
+  </li>
+
+  <li>
+    <a href="https://www.youtube.com/watch?v=_JI3fYmKZEU">How does whole-process people's democracy work? <span class="badge">Video</span></a>
+    <p>Whole-process people's democracy is democracy in its broadest, most genuine, and most effective form. How does democracy work in China? How do Chinese people run their country? Victor Gao, Chairman of Yale Law School Association of China, tells his experiences and insights.</p>
+  </li>
+
+  <li>
+    <a href="https://www.youtube.com/watch?v=TgpQxVCekgw">How does China elect it's leaders? <span class="badge">Video</span></a>
+    <p>China has developed a unique system of choosing its leaders, eschewing Western models for a process based on merit and broad support. Scholar Zhang Weiwei argues that while the system of "selection and election" is not perfect, it is a match for alternative models and has delivered for the Chinese people. </p>
+  </li>
+
+  <li>
+    <a href="https://archive.ph/DwD1n">Workplace democracy in action <span class="badge">Twitter</span></a>
+    <p>How do rank-and-file workers have input in the running of the firm, and how does that input links up with central decision-making? The answer is the workers' congress system. So what is this system? Simply put, it is a representative body of workers at each firm who deliberate and vote on managerial decisions. See more in the link.</p>
+  </li>
+
+  <li>
+    <a href="https://www.quora.com/What-kind-of-democracy-does-the-China-have/answers/81676052?share=0ac8c628&srid=JMzz">What kind of democracy does China have, and how is it different from the west? <span class="badge">Quora</span></a>
+    <p>How do rank-and-file workers have input in the running of the firm, and how does that input links up with central decision-making? The answer is the workers' congress system. So what is this system? Simply put, it is a representative body of workers at each firm who deliberate and vote on managerial decisions. See more in the link.</p>
+  </li>
+
+  <li>
+    <a href="https://www.qiaocollective.com/education/xinjiang">Most in China Call Their Nation A Democracy, Most in U.S. Say America Isn't <span class="badge">Article</span></a>
+    <p>The overwhelming majority of people living in China say they are living in a democracy. Most people in the United States say they do not. These findings are part of a new study published by the Denmark-based Alliance of Democracies Foundation and Germany-based Latana data tracking firm. Part of the latest installment of the annual Democracy Perception Index published Monday, the study explores public opinions of democracy among 52,785 respondents across 53 nations and territories, including China and the U.S., surveyed between March 30 and May 10 of this year.</p>
+  </li>
+
+  <li>
+    <a href="https://news.cgtn.com/event/2019/whorunschina/index.html">Who runs China? Makeup of the national people's congress. <span class="badge">Article</span></a>
+    <p>China's Two Sessions is one of the country's most important political events. Each year in March, thousands of representatives gather in Beijing to propose and announce policies that will shape the country's development. During the event, the National People's Congress (NPC) convened its deputies representing the interests of their communities throughout the country. As China's top legislature and highest organ of state power, the NPC gathers about 3,000 deputies to discuss national affairs. But who are they? What are their educational backgrounds? What ethnic groups do they belong to?</p>
+  </li>
+</ul>
+
+## Misc. Curated Reading
 
 <ul class="taxonomy-list">
   <li>
@@ -45,11 +84,6 @@ description: A curated list of reading material and videos about China. Covers v
   </li>
 
   <li>
-    <a href="https://www.qiaocollective.com/education/xinjiang">Most in China Call Their Nation A Democracy, Most in U.S. Say America Isn't <span class="badge">Article</span></a>
-    <p>The overwhelming majority of people living in China say they are living in a democracy. Most people in the United States say they do not. These findings are part of a new study published by the Denmark-based Alliance of Democracies Foundation and Germany-based Latana data tracking firm. Part of the latest installment of the annual Democracy Perception Index published Monday, the study explores public opinions of democracy among 52,785 respondents across 53 nations and territories, including China and the U.S., surveyed between March 30 and May 10 of this year.</p>
-  </li>
-
-  <li>
     <a href="https://www.qiaocollective.com/education/tiananmenreadinglist">Tiananmen Protests Reading List <span class="badge">List</span></a>
     <p>More than thirty years later, the Tiananmen Square protests of 1989 remain a touchstone of a Western mythology spun to challenge the fundamental legitimacy of the Communist Party of China. By collapsing the diverse and often contradictory demands of protesters into a simplistic call for Western-style capitalist democracy, the West’s selective memory of June 4 continues to inform liberal platitudes to “stand with the Chinese people” against their government, reifying the universality of Western capitalism and U.S. global hegemony in the process.<br><br>
 
@@ -69,13 +103,6 @@ This reading list compiles primary sources, Chinese state documents, and media f
     <p>China has brought over 700 million people out of poverty through economic development. But over 100 million people remained intractably poor, trapped in poverty due to isolation, low education, and infirmities. After gathering and organizing materials for half a year, the American-Chinese co-production team of "China's Poverty Alleviation at the Grassroots" immersed themselves into the local lives of China's rural poor in remote mountainous areas. With "targeted poverty alleviation" being the main topic, five simple but touching stories personalize the process and depict the measures of combating poverty.</p>
   </li>
 
-  <li>
-    <a class="logo" href="https://www.youtube.com/watch?v=_JI3fYmKZEU">
-        {{< ytthumb "_JI3fYmKZEU" "168x94" >}}
-    </a>
-    <a class="channel-name" href="https://www.youtube.com/watch?v=_JI3fYmKZEU">How does whole-process people's democracy work?</a>
-    <p>Whole-process people's democracy is democracy in its broadest, most genuine, and most effective form. How does democracy work in China? How do Chinese people run their country? Victor Gao, Chairman of Yale Law School Association of China, tells his experiences and insights. </p>
-  </li>
 
   <li>
     <a class="logo" href="https://www.youtube.com/watch?v=TPA_hLdU4Jc">
