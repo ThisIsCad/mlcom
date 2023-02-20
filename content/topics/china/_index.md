@@ -62,7 +62,7 @@ There is also a [fantastic collection of resources](https://github.com/dessaline
   </li>
 
   <li>
-    <a href="https://www.qiaocollective.com/education/xinjiang">Not Some Other -ism <span class="badge">Paper</span></a>
+    <a href="https://archive.org/details/not-some-other-ism-on-some-western-marxist-misrepresentations-of-chinese-socialism/page/1/mode/2up?view=theater">Not Some Other -ism <span class="badge">Paper</span></a>
     <p>
       This study tackles four Western Marxist misrepresentations of
        socialism with Chinese characteristics, particularly as it has  
