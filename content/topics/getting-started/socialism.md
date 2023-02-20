@@ -54,3 +54,9 @@ It's worth noting that while *private property* will be abolished entirely, this
 ## Marxism 
 
 **Marxism** is both political theory and a framework with which to analyze the world. We use marxism to understand *class struggle* (the struggle and contradiction between worker and capitalist), and how our political systems can be viewed through this lens (including historically). Marxism is the scientific study and analysis of society using *dialectical materialism* (a term that will be explained in some of our recommended reading or recommended videos).
+
+<hr class="small">
+
+## Marxism-Leninism
+
+**Marxism-Leninism** is a synthesis of traditional marxist theory and scientific analysis, as well as the contributions from Vladimir Lenin. For instance, Marxism-Leninism recognizes the critical role that imperialism plays in the development and expansion of capitalism. Imperialism leads to the labor aristrocacy, where upper members of the working class are "bought out" by capitalists and exploitation of the developing world. This leads to a lack of revolutionary potential. Hence, MLs advocate for a Vanguard Party, comprised of individuals well educated on revolutionary theory, who would prepare and cary out the revolution, and help create class consciousness among the masses.
