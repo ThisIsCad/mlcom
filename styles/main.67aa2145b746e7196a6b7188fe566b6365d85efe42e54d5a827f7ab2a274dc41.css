@@ -331,10 +331,10 @@ em {
     .main-content ul.taxonomy-list {
       list-style: none;
       margin-left: 0; }
-      .main-content ul.taxonomy-list li {
+      .main-content ul.taxonomy-list > li {
         border-left: 6px solid #0a1922;
         padding-left: 1.5rem; }
-        .main-content ul.taxonomy-list li:after {
+        .main-content ul.taxonomy-list > li:after {
           content: " ";
           display: block;
           width: 60%;
@@ -342,12 +342,16 @@ em {
           position: relative;
           top: 20px;
           border-bottom: 1px solid #575a6a; }
-        .main-content ul.taxonomy-list li a {
-          font-size: 1.1rem; }
-        .main-content ul.taxonomy-list li p {
+        .main-content ul.taxonomy-list > li > a:first-child, .main-content ul.taxonomy-list > li > h4 {
+          font-size: 1.1rem;
+          font-weight: normal; }
+        .main-content ul.taxonomy-list > li p {
           font-size: 0.9rem; }
-          .main-content ul.taxonomy-list li p:last-child {
+          .main-content ul.taxonomy-list > li p:last-child {
             margin-bottom: 0; }
+        .main-content ul.taxonomy-list > li li {
+          font-size: 0.9rem;
+          padding-bottom: 0.5rem; }
   .main-content ul + p, .main-content ol + p {
     margin-top: 1rem; }
   .main-content blockquote {
