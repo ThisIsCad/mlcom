@@ -9,6 +9,70 @@ The US has prisons. China has prison camps. The US has undercover cops. China ha
 
 There is also a [fantastic collection of resources](https://github.com/dessalines/essays/blob/master/socialism_faq.md#on-mao-maoism-and-marxism-leninism-maoism-and-the-prc) on GitHub, but many links no longer work. We will endeavour to ensure the working, valuable links are included below.
 
+## Is China Really Socialist?
+
+<ul class="taxonomy-list">
+  <li>
+    <h4>Is China State Capitalist?</h4>
+    <p>The backbone of the economy is {{< imglink "/images/china_soe_economy_poster.png" "state ownership and socialist planning" >}}. 24 / 25 of the top revenue companies are state-owned and planned. 70% of the top 500 companies are State-owned<sup><a href="https://en.wikipedia.org/wiki/State-owned_Assets_Supervision_and_Administration_Commission#Central_SOEs">[1]</a></sup><sup><a href="https://en.wikipedia.org/wiki/List_of_largest_Chinese_companies">[2]</a></sup>. The largest bank, construction, electricity, and energy companies in the world, are CPC controlled entities, subject to the <a href="https://news.cgtn.com/news/2020-10-29/19th-CPC-Central-Committee-concludes-fifth-plenary-session-UZ8ZC4kHhm/index.html">5 year plans laid out by the central committee</a>.</p>
+    <ul>
+      <li>Aerospace, airlines, aluminum, architecture & design, automotive, aviation, banking, chemicals, coal, cotton, electronics, engineering, forestry, heavy equipment, gold, grain, heavy machinery, intelligence services, iron, materials, metallurgy, mining, non-ferrous metals, nuclear energy, ocean shipping, oil, pharmaceuticals, postal services, rail, salt, science and technology research, ship building, silk, steel, telecoms, travel and utilities – are all sectors in which SOEs (state-owned enterprises) have monopoly or near-monopoly positions, and are required to follow the five-year plans.</li>
+      <li>Four out of five of the largest banks in the PRC are state-owned. They, in turn, use financial instruments to ensure the predominance of the state-sector, and offer lower interest-rates for SOEs, ensuring that they retain a constant advantage.</li>
+      <li>The largest twenty companies in mainland China are all state-owned.</li>
+      <li>All companies with >100 employees are required to have a CPC trade union cell which has final say over management decisions.</li>
+      <li>Many Chinese companies are listed as privately-owned when they are not privately-owned, leading to an underrepresentation of the role of the Chinese state in analyses of the PRC's economy. Publicly-owned companies which sell off even 1-2% ownership shares are listed as private, companies owned by cooperatives and local governments, and city/regional asset commissions are listed as private, and subsidiary companies owned by SOEs are often listed as private when the ownership structure is unclear or unavailable to analysts.</li>
+    </ul>
+  </li>
+
+  <li>
+    <h4>Is modern day China staying true to communist values?</h4>
+    <p>The economic structures of Chinese socialism are based on the Soviet NEP of Lenin even if it’s pretty different from it. 50% of the economy is in the socialist public sector and follows directly the plan (40% if you ignore the agricultural sector). 20 to 30 % is inside the state capitalist sector, which is the sector partially or totally owned by domestic capitalists but run by the CPC or by local workers councils. The rest is made up of the small bourgeois ownership like in the NEP.<sup><a href="https://chinareporting.blogspot.com/2009/11/class-nature-of-chinese-state-critique_26.html">[3]</a></sup></p>
+    <p>
+      The west views China as one big sweatshop, but the actual working hours aren't much more than anywhere else. The average for a migrant worker (most vulnerable to exploitation as they are traveling from the countryside) is 8.8 hours, little under an hour more than a typical working day. Labor strikes are rarely suppressed, there are many examples of workers on strike getting the support of the PRC. The Chinese state rules in favor of the workers.<sup><a href="https://www.forbes.com/sites/mitchfree/2013/07/11/held-hostage-entrepreneurs-uneasy-over-chinese-govt-inaction/#2431f5463de4">[4]</a></sup><sup><a href="http://www.independent.co.uk/news/business/news/china-billionaires-ceo-disappearing-missing-station-sanctioned-abductions-beijing-security-agencies-a7564896.html">[5]</a></sup><sup><a href="https://www.theatlantic.com/international/archive/2013/01/why-do-chinese-billionaires-keep-ending-up-in-prison/272633/">[6]</a></sup><sup><a href="https://www.theatlantic.com/international/archive/2012/01/how-china-stays-stable-despite-500-protests-every-day/250940/">[7]</a></sup> 
+    </p>
+    <p>
+      Wages themselves are also forced to rise in the private sector by the CPC (+16% every years, +400% since 1980)who force the capitalists to accept the presence of CPC chapters who represent the interest of the workers, increasing workers control even in the capitalist parts of the economy.<sup><a href="https://fpif.org/labor_rights_in_china/">[8]</a></sup> <sup><a href="https://www.workers.org/2015/07/21/china-rising-wages-and-worker-militancy/#.WXOlQtPytsM">[9]</a></sup> <sup><a href="https://www.quora.com/Does-China-have-democracy/answer/Godfree-Roberts?share=0ac8c628&srid=JMzz">[10]</a></sup> 
+    </p>
+    <p>
+      Furthermore, the workplace safety standarts of China, a developing country, are now better than in the capitalist countries of the West like in Australia who have an higher rate of work related deaths despite having a GDP per capita 3-5 times higher.<sup><a href="https://www.trotskyistplatform.com/workplace-safety-now-better-in-china-than-in-australia/">[10]</a></sup>  
+    </p>
+  </li>
+
+
+  <li>
+    <a href="https://communistuniversity.wordpress.com/2014/05/05/is-china-sociaslist/">Is China Socialist? <span class="badge">Article</span></a>
+    <p>This article presents a case for why China is socialist, and how it has benefitted from national planning. It concludes that China succeeded in its economic development because the socialist sector has so far controlled and led domestic capitalism and foreign investment within the framework of planned national economic goals.</p>
+  </li>
+
+  <li>
+    <a href="https://archive.org/details/not-some-other-ism-on-some-western-marxist-misrepresentations-of-chinese-socialism/page/1/mode/2up?view=theater">Not Some Other -ism <span class="badge">Paper</span></a>
+    <p>
+      This study tackles four Western Marxist misrepresentations of
+       socialism with Chinese characteristics, particularly as it has  
+       developed with the reform and opening-up. Each of these 
+       misrepresentations sets in opposition the economy and the state,
+       with the former being seen as “capitalist” (in some form) and the 
+       latter as variously “authoritarian,” “bureaucratic” or simply as 
+       “interventionist.” In other words, “Chinese characteristics” 
+       designates the superstructural feature that determines— 
+       incorrectly in light of Marxist analysis—the economic base, which 
+       is mistakenly seen as capitalist. While each misrepresentation has 
+       its own distinct problems, they also have common problems: a 
+       voluntarist position on political decisions, which fails to provide
+       any reason for a “capitalist turn”; the assumption that a “market
+       economy,” wherever and whenever it appears, is by definition 
+       capitalist; the deployment of neocolonial and “Orientalist”
+       assumptions coupled with a Western “betrayal narrative’; and a
+       systemic neglect of Chinese language research. The conclusion 
+       provides a summarising assessment that focuses on the empirical 
+       flaws and methodological presuppositions of these
+       misrepresentations. We emphasise that our focus is primarily on
+       the internal problems and_ inconsistencies of these 
+       misrepresentations, although we also offer—where needed— 
+       some constructive alternatives.</p>
+  </li>
+</ul>
+
 ## Democracy In China
 
 <ul class="taxonomy-list">
@@ -52,41 +116,8 @@ There is also a [fantastic collection of resources](https://github.com/dessaline
 
 <ul class="taxonomy-list">
   <li>
-    <a href="https://communistuniversity.wordpress.com/2014/05/05/is-china-sociaslist/">Is China Socialist? <span class="badge">Article</span></a>
-    <p>This article presents a case for why China is socialist, and how it has benefitted from national planning. It concludes that China succeeded in its economic development because the socialist sector has so far controlled and led domestic capitalism and foreign investment within the framework of planned national economic goals.</p>
-  </li>
-
-  <li>
     <a href="https://www.qiaocollective.com/education/xinjiang">Xinjiang: A Report and Resource Compilation <span class="badge">Article</span></a>
     <p>A collection of resources about Xinjiang and the false accusations of a genocide against the Uyghur population. The propaganda about a Uyghur genocide was perpertuated by western imperialist forces as part of their ongoing fight against China. Xinjiang is a resource rich area and the US knows this, and wants access to it.</p>
-  </li>
-
-  <li>
-    <a href="https://archive.org/details/not-some-other-ism-on-some-western-marxist-misrepresentations-of-chinese-socialism/page/1/mode/2up?view=theater">Not Some Other -ism <span class="badge">Paper</span></a>
-    <p>
-      This study tackles four Western Marxist misrepresentations of
-       socialism with Chinese characteristics, particularly as it has  
-       developed with the reform and opening-up. Each of these 
-       misrepresentations sets in opposition the economy and the state,
-       with the former being seen as “capitalist” (in some form) and the 
-       latter as variously “authoritarian,” “bureaucratic” or simply as 
-       “interventionist.” In other words, “Chinese characteristics” 
-       designates the superstructural feature that determines— 
-       incorrectly in light of Marxist analysis—the economic base, which 
-       is mistakenly seen as capitalist. While each misrepresentation has 
-       its own distinct problems, they also have common problems: a 
-       voluntarist position on political decisions, which fails to provide
-       any reason for a “capitalist turn”; the assumption that a “market
-       economy,” wherever and whenever it appears, is by definition 
-       capitalist; the deployment of neocolonial and “Orientalist”
-       assumptions coupled with a Western “betrayal narrative’; and a
-       systemic neglect of Chinese language research. The conclusion 
-       provides a summarising assessment that focuses on the empirical 
-       flaws and methodological presuppositions of these
-       misrepresentations. We emphasise that our focus is primarily on
-       the internal problems and_ inconsistencies of these 
-       misrepresentations, although we also offer—where needed— 
-       some constructive alternatives.</p>
   </li>
 
   <li>
