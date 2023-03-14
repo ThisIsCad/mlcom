@@ -654,11 +654,12 @@ em {
 .curated-video-list {
     list-style: none!important;
     margin-left: 0!important;
-    
-    li {
-        padding-bottom: 1rem;
-        position: relative;
-    }
+}
+
+.curated-video-list li,
+.taxonomy-list li.video {
+    padding-bottom: 1rem;
+    position: relative;
 
     .logo {
         display: block;
@@ -684,6 +685,12 @@ em {
         font-size: 0.9rem;
         margin-left: 184px;
         min-height: 70px;
+    }
+}
+
+.taxonomy-list li.video {
+    .logo {
+        left: 1.5rem;
     }
 }
 
