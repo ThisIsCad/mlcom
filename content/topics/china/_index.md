@@ -34,7 +34,7 @@ There is also a [fantastic collection of resources](https://github.com/dessaline
       Wages themselves are also forced to rise in the private sector by the CPC (+16% every years, +400% since 1980)who force the capitalists to accept the presence of CPC chapters who represent the interest of the workers, increasing workers control even in the capitalist parts of the economy.<sup><a href="https://fpif.org/labor_rights_in_china/">[8]</a></sup> <sup><a href="https://www.workers.org/2015/07/21/china-rising-wages-and-worker-militancy/#.WXOlQtPytsM">[9]</a></sup> <sup><a href="https://www.quora.com/Does-China-have-democracy/answer/Godfree-Roberts?share=0ac8c628&srid=JMzz">[10]</a></sup> 
     </p>
     <p>
-      Furthermore, the workplace safety standarts of China, a developing country, are now better than in the capitalist countries of the West like in Australia who have an higher rate of work related deaths despite having a GDP per capita 3-5 times higher.<sup><a href="https://www.trotskyistplatform.com/workplace-safety-now-better-in-china-than-in-australia/">[10]</a></sup>  
+      Furthermore, the workplace safety standards of China, a developing country, are now better than in the capitalist countries of the West like in Australia who have an higher rate of work related deaths despite having a GDP per capita 3-5 times higher.<sup><a href="https://www.trotskyistplatform.com/workplace-safety-now-better-in-china-than-in-australia/">[10]</a></sup>  
     </p>
   </li>
 

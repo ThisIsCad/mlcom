@@ -28,6 +28,37 @@ We must do better. The first step is educating yourself.
     <a href="https://www.amazon.ca/Trans-Liberation-Beyond-Pink-Blue/dp/0807079510">Trans Liberation: Beyond Pink or Blue <span class="badge">Book</span></a>
     <p>Those who have heard Leslie Feinberg speak in person know how powerful and inspiring ze can be. In Trans Liberation, Feinberg has gathered a collection of ze speeches on trans liberation and its essential connection to the liberation of all people. This wonderfully immediate, impassioned, and stirring book is for anyone who cares about civil rights and creating a just and equitable society.</p>
   </li>
+
+  <li>
+    <a href="https://www.youtube.com/watch?v=PFlGeTXLkVQ">Trans Liberation & Marxism: Is Gender Identity Actually Anti-Materialist? | Let's Talk Patriarchy <span class="badge">Video</span></a>
+    <p>Is being Trans "idealist"? Let's take a Marxist, dialectical materialist look at the situation. This video by Marxist Paul addresses vulgar materialist arguments that are used by some "marxists" to argue *against* trans rights.</p>
+  </li>
+</ul>
+
+## Debunking Myths About Trans Athletes {#sports}
+
+<ul class="taxonomy-list">
+  <li>
+    <a href="https://www.aclu.org/news/lgbtq-rights/four-myths-about-trans-athletes-debunked">Four Myths About Trans Athletes, Debunked <span class="badge">Article</span></a>
+    <p>Upholding trans athletes' rights requires rooting out the inaccurate beliefs underlying harmful policies sweeping through state legislatures. For years state lawmakers have pushed legislation attempting to shut trans people out of public spaces. In 2020, lawmakers zeroed in on sports and introduced 20 bills seeking to ban trans people from participating in athletics. These statewide efforts have been supported through a coordinated campaign led by anti-LGBTQ groups that have long worked to attack our communities.<br><br>
+    Though we are fighting every day in the courts and in legislatures, upholding trans rights will take more than judicial and legislative action. It will require rooting out the inaccurate and harmful beliefs underlying these policies. In this article, the ACLU debunk four myths about trans athletes using the expertise of doctors, academics, and sports psychologists serving as experts in their litigation in Idaho.</p>
+  </li>
+
+  <li>
+    <a href="/ebooks/transgenderwomenathletesandelitesport-ascientificreview-e-final.pdf">Transgender Women - Athletes and Elite Sport: A Scientific Review <span class="badge">Study</span></a>
+    <p>Transgender Women Athletes and Elite Sport: A Scientific Review is an in-depth review
+of scientific literature on transgender athlete participation in competitive sport. The
+inclusion criteria for this report were research articles published in the English language
+between 2011 and 2021 inclusive. Only peer-reviewed articles or syntheses of academic
+literature (e.g., meta-analyses) in reputable academic journals were included. Grey
+literature, or non-academic literature, was included if it provided a summary of empirical
+data or if it described rules currently in place worldwide to include/exclude trans
+athletes. The resulting report is divided into two sections reflecting the primary
+perspectives by which the question of trans inclusion has been addressed - one that
+encompasses biomedical studies and a second that encompasses sociocultural
+studies. While there are questions of inclusion for non-binary and intersex athletes, this
+report focused on the population of trans women athletes in the context of elite sport. </p>
+  </li>
 </ul>
 
 ## What are TERFs, aka "Gender Critical Feminists"
